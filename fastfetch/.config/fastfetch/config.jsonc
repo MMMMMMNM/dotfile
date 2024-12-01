@@ -1,0 +1,20 @@
+{
+    "modules": [
+        "title",
+        "separator",
+        "os",
+        "host",
+        "uptime",
+        "packages",
+        "shell",
+        "terminal",
+        "memory",
+        "disk",
+        "localip",
+        "battery",
+        "poweradapter",
+        "locale",
+        "swap",
+        "break"
+    ]
+}

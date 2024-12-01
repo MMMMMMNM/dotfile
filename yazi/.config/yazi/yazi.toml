@@ -1,0 +1,38 @@
+[manager]
+show_hidden = true
+linemode = "size_and_mtime"
+sort_sensitive = false
+sort_dir_first = true
+show_symlink = true
+title_format = "{cwd}"
+[preview]
+# Change them to your desired values
+wrap = "yes"
+max_width  = 1000
+max_height = 1000
+[opener]
+play = [
+	{ run = 'mpv "$@"', orphan = true, for = "unix" },
+]
+edit = [
+	{ run = 'nvim "$@"', block = true, for = "unix" },
+]
+open = [
+	{ run = 'imv "$@"', desc = "Open" },
+]
+[open]
+rules = [
+	{ mime = "text/*", use = "edit" },
+	{ mime = "video/*", use = "play" },
+    {name = "*.jpg" , use = "open"},
+    {name = "*.png" , use = "open"},
+	# { mime = "application/json", use = "edit" },
+	{ name = "*.json", use = "edit" },
+    {name = "*.py" , use = "edit"},
+	{ name = "*.cpp", use = "edit" },
+    {name = "*.conf" , use = "edit"},
+	{ name = "*.lua", use = "edit" },
+    {name = "*.toml" , use = "edit"},
+	# Multiple openers for a single rule
+	{ name = "*.html", use = [ "open", "edit" ] },
+]
