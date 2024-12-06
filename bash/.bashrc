@@ -22,6 +22,7 @@ function y() {
 	fi
 	rm -f -- "$tmp"
 }
+alias lgit="lazygit"
 alias tumx="zellij"
 alias top="btop"
 alias du="dust"
