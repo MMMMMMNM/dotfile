@@ -36,6 +36,6 @@ alias ps='procs'
 alias cat='bat'
 alias vi='nvim'
 alias vim="neovide"
-alias ls='lsd -ail'
+alias ls='lsd -al'
 alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
