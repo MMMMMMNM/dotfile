@@ -34,7 +34,7 @@ alias np='ncmpcpp'
 alias ps='procs'
 alias cat='bat'
 alias vi='nvim'
-alias nvim="neovide"
+alias vim="neovide"
 alias ls='lsd -ail'
 alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '

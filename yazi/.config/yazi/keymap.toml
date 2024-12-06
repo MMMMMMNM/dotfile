@@ -18,3 +18,7 @@ desc = "Enter the child directory, or open the file"
 on   = [ "i" ]
 run = "plugin --sync Keyjump"
 desc = "Keyjump (Keep mode)"
+[[manager.prepend_keymap]]
+on   = "!"
+run  = 'shell "$SHELL" --block --confirm'
+desc = "Open shell here"

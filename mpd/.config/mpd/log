@@ -921,3 +921,8 @@ Dec 01 13:07 : player: played "袁娅维TIA RAY - Starfall.FLAC"
 Dec 01 13:09 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
 Dec 01 13:13 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
 Dec 01 13:13 : player: played "宇多田光 - One Last Kiss.flac"
+Dec 01 20:25 : config: option 'device' on line 17 was not recognized
+Dec 01 20:31 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
+Dec 06 16:49 : config: option 'device' on line 17 was not recognized
+Dec 06 16:50 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
+Dec 06 16:53 : player: played "袁娅维TIA RAY - Starfall.FLAC"
