@@ -1,0 +1,6 @@
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export QT_QPA_PLATFORM=wayland
+export FZF_CTRL_T_OPTS=" --preview 'bat -n --color=always --line-range :500 {}'"
+export FZF_ALT_C_OPTS=" --preview 'lsd -ail --color=always'"
+export EDIT=nvim

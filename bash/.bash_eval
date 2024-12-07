@@ -1,0 +1,4 @@
+eval "$(zoxide init bash)"
+eval "$(thefuck --alias fk)"
+eval "$(fzf --bash)"
+eval "$(oh-my-posh init bash --config ~/dotfile/oh-my-posh.json)"

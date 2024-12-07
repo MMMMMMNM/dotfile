@@ -15,7 +15,7 @@ play = [
 	{ run = 'mpv "$@"', orphan = true, for = "unix" },
 ]
 edit = [
-	{ run = 'nvim "$@"', block = true, for = "unix" },
+	{ run = '$EDIT "$@"', block = true, for = "unix" },
 ]
 open = [
 	{ run = 'imv "$@"', desc = "Open" },
