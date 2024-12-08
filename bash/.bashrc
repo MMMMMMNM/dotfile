@@ -4,7 +4,7 @@
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
-fastfetch | lolcat
+source ~/dotfile/bash/.bash_first
 source ~/dotfile/bash/.bash_alias
 source ~/dotfile/bash/.bash_function
 source ~/dotfile/bash/.bash_export

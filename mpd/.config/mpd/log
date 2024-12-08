@@ -976,3 +976,8 @@ Dec 07 19:36 : player: played "SawanoHiroyuki[nZk]、Tielle - Cage(NTv) (囚笼(
 Dec 07 19:40 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
 Dec 07 19:40 : player: played "SawanoHiroyuki[nZk]、Tielle - Cage(NTv) (囚笼(NTv)).flac"
 Dec 07 19:45 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Dec 07 20:21 : player: played "SawanoHiroyuki[nZk]、Tielle - Cage(NTv) (囚笼(NTv)).flac"
+Dec 08 10:47 : config: option 'device' on line 17 was not recognized
+Dec 08 10:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Dec 08 11:14 : player: played "SawanoHiroyuki[nZk]、Tielle - Cage(NTv) (囚笼(NTv)).flac"
+Dec 08 11:15 : config: option 'device' on line 17 was not recognized
