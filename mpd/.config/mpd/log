@@ -981,3 +981,16 @@ Dec 08 10:47 : config: option 'device' on line 17 was not recognized
 Dec 08 10:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
 Dec 08 11:14 : player: played "SawanoHiroyuki[nZk]、Tielle - Cage(NTv) (囚笼(NTv)).flac"
 Dec 08 11:15 : config: option 'device' on line 17 was not recognized
+Dec 08 11:49 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Dec 08 11:49 : player: played "周深 - 人是_(1).flac"
+Dec 08 11:58 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:01 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:04 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:06 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:09 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:12 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:15 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:17 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:20 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:23 : player: played "Seredris - Daylight(1).flac"
+Dec 08 12:25 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
