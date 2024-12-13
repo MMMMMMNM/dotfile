@@ -994,3 +994,13 @@ Dec 08 12:17 : player: played "Seredris - Daylight(1).flac"
 Dec 08 12:20 : player: played "Seredris - Daylight(1).flac"
 Dec 08 12:23 : player: played "Seredris - Daylight(1).flac"
 Dec 08 12:25 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 08 12:29 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 08 12:34 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Dec 08 12:34 : player: played "宇多田光 - One Last Kiss.flac"
+Dec 08 12:43 : output: Failed to play on "pulse audio" (pulse): disconnected
+Dec 08 12:43 : player: played "宇多田光 - One Last Kiss.flac"
+Dec 08 12:44 : config: option 'device' on line 17 was not recognized
+Dec 08 15:28 : player: played "Seredris - Daylight(1).flac"
+Dec 13 16:58 : config: option 'device' on line 17 was not recognized
+Dec 13 17:07 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Dec 13 17:07 : player: played "宇多田光 - One Last Kiss.flac"

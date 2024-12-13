@@ -9,8 +9,6 @@
         "packages",
         "shell",
         "terminal",
-        "cpu",
-        "gpu",
         "memory",
         "disk",
         "localip",
