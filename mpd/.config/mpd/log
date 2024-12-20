@@ -1004,3 +1004,6 @@ Dec 08 15:28 : player: played "Seredris - Daylight(1).flac"
 Dec 13 16:58 : config: option 'device' on line 17 was not recognized
 Dec 13 17:07 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
 Dec 13 17:07 : player: played "宇多田光 - One Last Kiss.flac"
+Dec 13 17:54 : player: played "宇多田光 - One Last Kiss.flac"
+Dec 13 17:55 : config: option 'device' on line 17 was not recognized
+Dec 13 17:56 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
