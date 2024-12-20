@@ -1007,3 +1007,35 @@ Dec 13 17:07 : player: played "宇多田光 - One Last Kiss.flac"
 Dec 13 17:54 : player: played "宇多田光 - One Last Kiss.flac"
 Dec 13 17:55 : config: option 'device' on line 17 was not recognized
 Dec 13 17:56 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 13 19:26 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Dec 14 11:05 : config: option 'device' on line 17 was not recognized
+Dec 14 23:24 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Dec 15 10:16 : config: option 'device' on line 17 was not recognized
+Dec 15 11:09 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Dec 15 11:10 : config: option 'device' on line 17 was not recognized
+Dec 15 11:15 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Dec 15 11:16 : config: option 'device' on line 17 was not recognized
+Dec 15 11:46 : config: option 'device' on line 17 was not recognized
+Dec 15 12:07 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 15 12:07 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 15 12:07 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 15 12:07 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 15 12:07 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 15 12:11 : player: played "Seredris - Daylight(1).flac"
+Dec 15 12:14 : player: played "Seredris - Daylight(1).flac"
+Dec 15 12:17 : player: played "Seredris - Daylight(1).flac"
+Dec 15 12:19 : player: played "Seredris - Daylight(1).flac"
+Dec 15 12:22 : player: played "Seredris - Daylight(1).flac"
+Dec 15 12:25 : output: Failed to play on "pulse audio" (pulse): disconnected
+Dec 15 12:25 : player: played "Seredris - Daylight(1).flac"
+Dec 15 12:25 : config: option 'device' on line 17 was not recognized
+Dec 15 18:51 : player: played "SawanoHiroyuki[nZk]、Tielle - Cage(NTv) (囚笼(NTv)).flac"
+Dec 15 18:51 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 15 18:51 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 15 18:55 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Dec 15 18:58 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Dec 20 17:02 : config: option 'device' on line 17 was not recognized
+Dec 20 17:03 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Dec 20 17:08 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
+Dec 20 17:13 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
+Dec 20 17:17 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
