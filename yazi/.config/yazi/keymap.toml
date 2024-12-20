@@ -22,3 +22,11 @@ desc = "Jump to char"
 on   = "!"
 run  = 'shell "$SHELL" --block --confirm'
 desc = "Open shell here"
+[[manager.prepend_keymap]]
+on = [ "_", "r" ]
+run = "plugin reflink"
+desc = "Reflink the yanked files"
+[[manager.prepend_keymap]]
+on   = [ "g", "i" ]
+run  = "plugin lazygit"
+desc = "run lazygit"
