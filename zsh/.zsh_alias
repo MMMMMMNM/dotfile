@@ -4,7 +4,6 @@ alias lgit="lazygit"
 alias tumx="zellij"
 alias top="btop"
 alias du="dust"
-#alias cd="z"
 alias fzf="fzf --preview 'bat -n --color=always --line-range :500 {}'"
 alias wf='wf-recorder --audio'
 alias rm='rm -I'
