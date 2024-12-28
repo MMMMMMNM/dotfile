@@ -4,7 +4,7 @@ alias lgit="lazygit"
 alias tumx="zellij"
 alias top="btop"
 alias du="dust"
-alias fzf="fzf --preview 'bat -n --color=always --line-range :500 {}'"
+alias fzf="fzf --preview 'bat -n --color=always --line-range :500 {}' --bind=ctrl-j:preview-down,ctrl-k:preview-up --layout=reverse"
 alias wf='wf-recorder --audio'
 alias rm='rm -I'
 alias ping='gping'
