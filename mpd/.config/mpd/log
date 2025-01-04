@@ -8,3 +8,56 @@ Dec 28 20:50 : config: option 'device' on line 17 was not recognized
 Dec 28 20:51 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
 Dec 29 09:06 : config: option 'device' on line 17 was not recognized
 Dec 29 09:24 : config: option 'device' on line 17 was not recognized
+Dec 29 11:27 : config: option 'device' on line 17 was not recognized
+Dec 29 11:33 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
+Dec 31 17:10 : config: option 'device' on line 17 was not recognized
+Dec 31 18:21 : config: option 'device' on line 17 was not recognized
+Dec 31 18:53 : config: option 'device' on line 17 was not recognized
+Dec 31 19:25 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
+Dec 31 19:25 : config: option 'device' on line 17 was not recognized
+Dec 31 19:26 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
+Dec 31 19:26 : config: option 'device' on line 17 was not recognized
+Dec 31 19:27 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
+Dec 31 19:28 : config: option 'device' on line 17 was not recognized
+Dec 31 19:43 : config: option 'device' on line 17 was not recognized
+Dec 31 19:45 : player: played "Swaay Ghini、阿鲲 - 阿鲲-流浪地球主题音乐（Swaay Ghini   阿鲲 remix）.FLAC"
+Dec 31 19:46 : config: option 'device' on line 17 was not recognized
+Dec 31 20:03 : mixer: Failed to set mixer for 'pulse audio': disconnected
+Dec 31 20:03 : exception: Failed to set mixer for 'pulse audio'; disconnected
+Dec 31 20:03 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 09:41 : config: option 'device' on line 17 was not recognized
+Jan 01 12:54 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 12:58 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 13:02 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 13:06 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 13:10 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 13:14 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 13:18 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 13:22 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 13:26 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 13:30 : player: played "Professor Green - In The Shadow Of The Sun(1).mp3"
+Jan 01 19:47 : config: option 'device' on line 17 was not recognized
+Jan 01 19:51 : update: added /cry for me.mp3
+Jan 01 19:51 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Jan 01 19:57 : player: played "cry for me.mp3"
+Jan 01 19:57 : update: added /暮色回响.mp3
+Jan 01 19:57 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Jan 01 20:00 : update: added /稻香.mp3
+Jan 01 20:00 : player: played "暮色回响.mp3"
+Jan 01 20:03 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Jan 01 20:03 : flac: problem reading metadata
+Jan 01 20:03 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Jan 01 20:06 : player: played "暮色回响.mp3"
+Jan 01 20:07 : flac: problem reading metadata
+Jan 01 20:07 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Jan 01 20:13 : player: played "cry for me.mp3"
+Jan 01 20:18 : player: played "cry for me.mp3"
+Jan 01 20:22 : player: played "暮色回响.mp3"
+Jan 01 20:26 : exception: Failed to open /home/qwq/.config/mpd/playlists: No such file or directory
+Jan 01 20:34 : player: played "cry for me.mp3"
+Jan 01 20:40 : player: played "cry for me.mp3"
+Jan 03 16:50 : config: option 'device' on line 17 was not recognized
+Jan 03 18:29 : player: played "cry for me.mp3"
+Jan 04 09:12 : config: option 'device' on line 17 was not recognized
+Jan 04 09:17 : player: played "cry for me.mp3"
+Jan 04 09:17 : config: option 'device' on line 17 was not recognized
