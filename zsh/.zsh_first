@@ -1,0 +1,2 @@
+#echo "Arch Linux" | figlet | lolcat
+fastfetch | lolcat

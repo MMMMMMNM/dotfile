@@ -1,0 +1,5 @@
+[plugin]
+deps = [{ use = "yazi-rs/plugins:smart-enter", rev = "a53d544" }, { use = "yazi-rs/plugins:max-preview", rev = "a53d544" }, { use = "yazi-rs/plugins:hide-preview", rev = "a53d544" }, { use = "yazi-rs/plugins:full-border", rev = "a53d544" }, { use = "yazi-rs/plugins:jump-to-char", rev = "7afba3a" }, { use = "Lil-Dank/lazygit", rev = "c82794f" }, { use = "Ape/reflink", rev = "34902d3" }, { use = "yazi-rs/plugins:git", rev = "6418698" }, { use = "Sonico98/exifaudio", rev = "d794614" }]
+
+[flavor]
+deps = []
