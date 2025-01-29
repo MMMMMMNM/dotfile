@@ -1,3 +1,4 @@
 #echo "Arch Linux" | figlet | lolcat
 fastfetch | lolcat
-pokemon-colorscripts -r --no-title
+#pokemon-colorscripts -r --no-title
+pokemon-colorscripts -n rayquaza --no-title

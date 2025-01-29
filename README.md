@@ -1,6 +1,6 @@
 #my-Dotfile
 
-#use
+#USE
 '''bash
 git clone https://www.github.com/MMMMMMNM/dotfile.git ~/
 '''
