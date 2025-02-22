@@ -1,7 +1,7 @@
 
 ### alias ###
 alias lg="lazygit"
-#alias tumx="zellij"
+alias icat="kitty +kitten icat"
 alias top="btop"
 alias du="dust"
 alias fzf="fzf --preview 'bat -n --color=always --line-range :500 {}' --bind=ctrl-j:preview-down,ctrl-k:preview-up --layout=reverse"
