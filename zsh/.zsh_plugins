@@ -1,0 +1,13 @@
+#plugins
+zinit ice depth=1
+#zinit light jeffreytse/zsh-vi-mode
+zinit light Aloxaf/fzf-tab
+zinit light zsh-users/zsh-autosuggestions
+zinit light zdharma-continuum/fast-syntax-highlighting
+zinit ice blockf
+zinit light zsh-users/zsh-completions
+zinit light zsh-users/zsh-history-substring-search
+#zinit ice lucid wait"0a" from"gh-r" as"program" atload'eval "$(mcfly init zsh)"'
+#zinit light cantino/mcfly
+#zinit load djui/alias-tips
+zinit light skywind3000/z.lua

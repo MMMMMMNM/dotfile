@@ -1,0 +1,47 @@
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-enter"
+rev = "a53d544"
+hash = "53fe851b8568beba0835c8e43249c105"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:max-preview"
+rev = "a53d544"
+hash = ""
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:hide-preview"
+rev = "a53d544"
+hash = "4c1c7c820f65eacf5aa66e9cb34b4b91"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:full-border"
+rev = "a53d544"
+hash = "3a73613fc702a5f8369791b3401f52f1"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:jump-to-char"
+rev = "7afba3a"
+hash = "72c66a0b3d60f8377eb9db5e1d8b60b2"
+
+[[plugin.deps]]
+use = "Lil-Dank/lazygit"
+rev = "c82794f"
+hash = "2b0c33928986f126d5c5a4cac31a6b46"
+
+[[plugin.deps]]
+use = "Ape/reflink"
+rev = "34902d3"
+hash = "f0c718e6cfb12f292af6a027a86713c2"
+
+[[plugin.deps]]
+use = "Sonico98/exifaudio"
+rev = "d794614"
+hash = "a8e15d3c21c02a5af41d46ed04778a02"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:git"
+rev = "8945e54"
+hash = "771f18427fb75fb19990ce602bb322f4"
+
+[flavor]
+deps = []
