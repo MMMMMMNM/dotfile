@@ -37,17 +37,17 @@ return {
 		local lsp_zero = require("lsp-zero")
 		lsp_zero.on_attach(function(client, bufnr)
 			lsp_zero.default_keymaps({ buffer = bufnr })
-			local opts = { buffer = bufnr }
-			vim.keymap.set("n", "<leader>h", "<cmd>Lspsaga hover_doc<cr>", opts) -- <space>h显示提示文档
-			vim.keymap.set("n", "gd", vim.lsp.buf.definition, opts) -- gd跳转到定义的位置
-			vim.keymap.set("n", "go", vim.lsp.buf.type_definition, opts) -- go跳转到变量类型定义的位置
+			local opts = { buffer = bufnr, noremap = true }
+			vim.keymap.set("n", "H", "<cmd>Lspsaga hover_doc<cr>", opts) -- <space>h显示提示文档
+			vim.keymap.set("n", "gd", "<cmd>Lspsaga goto_definition<cr>", opts) -- gd跳转到定义的位置
+			vim.keymap.set("n", "go", "<cmd>Lspsaga goto_type_definition<cr>", opts) -- go跳转到变量类型定义的位置
 			vim.keymap.set("n", "gr", vim.lsp.buf.references, opts) -- gr跳转到引用了对应变量或函数的位置
-			vim.keymap.set("n", "<leader>rn", "<cmd>Lspsaga rename<cr>", opts) -- <space>rn变量重命名
+			vim.keymap.set("n", "<leader>lrn", "<cmd>Lspsaga rename<cr>", opts) -- <space>rn变量重命名
 			--vim.keymap.set({ 'n', 'x' }, '<leader>f', function() vim.lsp.buf.format({ async = true }) end, opts) -- <space>f进行代码格式化
-			vim.keymap.set("n", "<leader>aw", vim.lsp.buf.code_action, opts) -- <space>aw可以在出现警告或错误的地方打开建议的修复方法
-			vim.keymap.set("n", "<leader>d", vim.diagnostic.open_float, opts) -- <space>d浮动窗口显示所在行警告或错误信息
-			vim.keymap.set("n", "<leader>-", vim.diagnostic.goto_prev, opts) -- <space>-跳转到上一处警告或错误的地方
-			vim.keymap.set("n", "<leader>=", vim.diagnostic.goto_next, opts) -- <space>+跳转到下一处警告或错误的地方
+			vim.keymap.set("n", "<leader>law", "<cmd>Lspsaga code_action<cr>", opts) -- <space>aw可以在出现警告或错误的地方打开建议的修复方法
+			vim.keymap.set("n", "<leader>ld", vim.diagnostic.open_float, opts) -- <space>d浮动窗口显示所在行警告或错误信息
+			vim.keymap.set("n", "<leader>l-", "<cmd>Lspsaga diagnostic_jump_prev<cr>", opts) -- <space>-跳转到上一处警告或错误的地方
+			vim.keymap.set("n", "<leader>l=", "<cmd>Lspsaga diagnostic_jump_next<cr>", opts) -- <space>+跳转到下一处警告或错误的地方
 		end)
 		-- “符号栏”是行号旁边的装订线中的一个空格。当一行中出现警告或错误时，Neovim 会向您显示一个字母
 		lsp_zero.set_sign_icons({
@@ -120,7 +120,6 @@ return {
 					-- Always show messages on all lines for multiline diagnostics
 					always_show = false,
 				},
-
 				-- Display all diagnostic messages on the cursor line
 				show_all_diags_on_cursorline = false,
 

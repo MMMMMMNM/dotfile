@@ -6,59 +6,66 @@ return {
 	---@module 'blink.cmp'
 	---@type blink.cmp.Config
 	opts = {
+		-- 'default' (recommended) for mappings similar to built-in completions (C-y to accept, C-n/C-p for up/down)
+		-- 'super-tab' for mappings similar to vscode (tab to accept, arrow keys for up/down)
+		-- 'enter' for mappings similar to 'super-tab' but with 'enter' to accept
+		--
+		-- All presets have the following mappings:
+		-- C-space: Open menu or open docs if already open
+		-- C-e: Hide menu
+		-- C-k: Toggle signature help
+		--
+		-- See the full "keymap" documentation for information on defining your own keymap.
 		keymap = {
+			-- set to 'none' to disable the 'default' preset
 			preset = "none",
-			["<C-space>"] = { "show", "show_documentation", "hide_documentation" },
-			-- ['<C-e>'] = { 'hide' },
-			-- fallback命令将运行下一个非闪烁键盘映射(回车键的默认换行等操作需要)
-			["<CR>"] = { "accept", "fallback" }, -- 更改成'select_and_accept'会选择第一项插入
-			["<UP>"] = { "select_prev", "snippet_backward", "fallback" },
-			["<Down>"] = { "select_next", "snippet_forward", "fallback" }, -- 同时存在补全列表和snippet时，补全列表选择优先级更高
 
-			["<C-b>"] = { "scroll_documentation_up", "fallback" },
-			["<C-f>"] = { "scroll_documentation_down", "fallback" },
+			["<Up>"] = { "select_prev", "fallback" },
+			["<Down>"] = { "select_next", "fallback" },
 
-			["<C-e>"] = { "snippet_forward", "select_next", "fallback" }, -- 同时存在补全列表和snippet时，snippet跳转优先级更高
-			["<C-u>"] = { "snippet_backward", "select_prev", "fallback" },
+			-- disable a keymap from the preset
+			--['<C-e>'] = {},
+
+			-- show with a list of providers
+			["<C-space>"] = {
+				function(cmp)
+					cmp.show({ providers = { "snippets" } })
+				end,
+			},
+
+			-- control whether the next command will be run when using a function
+			["<C-n>"] = {
+				function(cmp)
+					if some_condition then
+						return
+					end -- runs the next command
+					return true -- doesn't run the next command
+				end,
+				"select_next",
+			},
 		},
-		completion = {
-			-- 示例：使用'prefix'对于'foo_|_bar'单词将匹配'foo_'(光标前面的部分),使用'full'将匹配'foo__bar'(整个单词)
-			keyword = { range = "full" },
-			-- 选择补全项目时显示文档(0.5秒延迟)
-			documentation = { auto_show = true, auto_show_delay_ms = 500 },
-			-- 不预选第一个项目，选中后自动插入该项目文本
-			list = { selection = { preselect = false, auto_insert = true } },
-		},
-		-- 指定文件类型启用/禁用
-		enabled = function()
-			return not vim.tbl_contains({
-				-- "lua",
-				-- "markdown"
-			}, vim.bo.filetype) and vim.bo.buftype ~= "prompt" and vim.b.completion ~= false
-		end,
-
 		appearance = {
-			-- 将后备高亮组设置为 nvim-cmp 的高亮组
-			-- 当您的主题不支持blink.cmp 时很有用
-			-- 将在未来版本中删除
+			-- Sets the fallback highlight groups to nvim-cmp's highlight groups
+			-- Useful for when your theme doesn't support blink.cmp
+			-- Will be removed in a future release
 			use_nvim_cmp_as_default = true,
-			-- 将“Nerd Font Mono”设置为“mono”，将“Nerd Font”设置为“normal”
-			-- 调整间距以确保图标对齐
+			-- Set to 'mono' for 'Nerd Font Mono' or 'normal' for 'Nerd Font'
+			-- Adjusts spacing to ensure icons are aligned
 			nerd_font_variant = "mono",
 		},
 
-		-- 已定义启用的提供程序的默认列表，以便您可以扩展它
+		-- Default list of enabled providers defined so that you can extend it
+		-- elsewhere in your config, without redefining it, due to `opts_extend`
 		sources = {
-			default = { "buffer", "lsp", "path", "snippets" },
-			providers = {
-				-- score_offset设置优先级数字越大优先级越高
-				buffer = { score_offset = 4 },
-				path = { score_offset = 3 },
-				lsp = { score_offset = 2 },
-				snippets = { score_offset = 1 },
-			},
+			default = { "lsp", "path", "snippets", "buffer" },
 		},
+
+		-- Blink.cmp uses a Rust fuzzy matcher by default for typo resistance and significantly better performance
+		-- You may use a lua implementation instead by using `implementation = "lua"` or fallback to the lua implementation,
+		-- when the Rust fuzzy matcher is not available, by using `implementation = "prefer_rust"`
+		--
+		-- See the fuzzy documentation for more information
+		fuzzy = { implementation = "prefer_rust_with_warning" },
 	},
-	-- 由于“opts_extend”，您的配置中的其他位置无需重新定义它
 	opts_extend = { "sources.default" },
 }

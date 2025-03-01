@@ -12,3 +12,11 @@ keymap.set("n", "<leader>sw", "<cmd>vsplit<cr>", opt)
 keymap.set("n", "<leader>ss", "<cmd>split<cr>", opt)
 
 keymap.set("n", "<leader>am", "<cmd>ASToggle<cr>", opt)
+
+keymap.set({ "n", "x" }, "p", "<Plug>(YankyPutAfter)", opt)
+keymap.set({ "n", "x" }, "P", "<Plug>(YankyPutBefore)", opt)
+keymap.set({ "n", "x" }, "gp", "<Plug>(YankyGPutAfter)", opt)
+keymap.set({ "n", "x" }, "gP", "<Plug>(YankyGPutBefore)", opt)
+
+keymap.set("n", "<c-p>", "<Plug>(YankyPreviousEntry)", opt)
+keymap.set("n", "<c-n>", "<Plug>(YankyNextEntry)", opt)

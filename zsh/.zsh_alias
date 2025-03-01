@@ -17,3 +17,4 @@ alias grep='grep --color=auto'
 alias diff='delta'
 alias df='duf'
 alias brolot='broot -h'
+alias cd="z"
