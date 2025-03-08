@@ -18,4 +18,5 @@ source ~/dotfile/zsh/.zsh_alias
 source ~/dotfile/zsh/.zsh_function
 source ~/dotfile/zsh/.zsh_export
 source ~/dotfile/zsh/.zsh_eval
+source ~/dotfile/zsh/.zsh_dir
 #dir

@@ -18,3 +18,4 @@ alias diff='delta'
 alias df='duf'
 alias brolot='broot -h'
 alias cd="z"
+alias nvide="neovide"

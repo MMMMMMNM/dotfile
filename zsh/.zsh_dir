@@ -1,0 +1,2 @@
+alias .d="cd ~/dotfile/"
+alias .c="cd ~/.config"
