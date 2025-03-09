@@ -12,7 +12,7 @@ return {
 			"MunifTanjim/nui.nvim",
 			"ibhagwan/fzf-lua", -- for file_selector provider fzf
 			"nvim-tree/nvim-web-devicons",
-			"zbirenbaum/copilot.lua",
+			{ "zbirenbaum/copilot.lua", event = "InsertEnter", opts = {} },
 			{
 				-- Make sure to set this up properly if you have lazy=true
 				"MeanderingProgrammer/render-markdown.nvim",
