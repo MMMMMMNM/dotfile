@@ -1,0 +1,4 @@
+
+//@theme "/usr/share/rofi/themes/catppuccin-macchiato.rasi"
+
+@theme "~/dotfile/rofi/.config/rofi/catppuccin-macchiato.rasi"
