@@ -1,7 +1,7 @@
 return {
 	{
 		"yetone/avante.nvim",
-		event = "VeryLazy",
+		event = "BufNew",
 		-- -- if you want to build from source then do `make BUILD_FROM_SOURCE=true`
 		build = "make",
 		--build = "powershell -ExecutionPolicy Bypass -File Build.ps1 -BuildFromSource false" -- for windows
@@ -12,7 +12,7 @@ return {
 			"MunifTanjim/nui.nvim",
 			"ibhagwan/fzf-lua", -- for file_selector provider fzf
 			"nvim-tree/nvim-web-devicons",
-			{ "zbirenbaum/copilot.lua", event = "InsertEnter", opts = {} },
+			{ "zbirenbaum/copilot.lua" },
 			{
 				-- Make sure to set this up properly if you have lazy=true
 				"MeanderingProgrammer/render-markdown.nvim",

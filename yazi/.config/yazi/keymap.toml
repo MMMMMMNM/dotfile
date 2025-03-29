@@ -30,3 +30,7 @@ desc = "Reflink the yanked files"
 on   = [ "g", "i" ]
 run  = "plugin lazygit"
 desc = "run lazygit"
+[[manager.prepend_keymap]]
+on   = ["u", "a"]
+run  = "plugin sxiv-easymotion.yazi"
+desc = "Preview images in sxiv"
