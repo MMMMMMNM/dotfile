@@ -183,3 +183,4 @@ while IFS= read -r line; do
   stow "$line"
 done < stow.txt
 makoctl reload
+chsh $(which zsh)
