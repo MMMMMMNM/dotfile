@@ -1,0 +1,32 @@
+[[mgr.prepend_keymap]]
+on   = "!"
+run  = 'shell "$SHELL" --block --confirm'
+desc = "Open shell here"
+[[manager.prepend_keymap]]
+on   = [ "g","g" ]
+run  = "plugin fg"
+desc = "find file by content (fuzzy match)"
+[[manager.prepend_keymap]]
+on   = [ "g","G" ]
+run  = "plugin fg -- rg"
+desc = "find file by content (ripgrep match)"
+[[manager.prepend_keymap]]
+on   = [ "g","ff" ]
+run  = "plugin fg -- fzf"
+desc = "find file by filename"
+# [[manager.prepend_keymap]]
+# on   = [ "i" ]
+# run = "plugin easyjump"
+# desc = "easyjump"
+# [[manager.prepend_keymap]]
+# on = [ "_", "r" ]
+# run = "plugin reflink"
+# desc = "Reflink the yanked files"
+# [[manager.prepend_keymap]]
+# on   = [ "g", "i" ]
+# run  = "plugin lazygit"
+# desc = "run lazygit"
+# [[manager.prepend_keymap]]
+# on   = ["u", "a"]
+# run  = "plugin sxiv-easymotion.yazi"
+# desc = "Preview images in sxiv"

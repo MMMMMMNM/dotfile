@@ -1,0 +1,4 @@
+alias .d="cd ~/dotfile/"
+alias .c="cd ~/.config"
+alias .nc="cd ~/dotfile/nvim/.config/nvim/"
+alias .hypr="cd ~/dotfile/hypr/.config/hypr/"
