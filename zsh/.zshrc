@@ -19,4 +19,6 @@ source ~/dotfile/zsh/.zsh_function
 source ~/dotfile/zsh/.zsh_export
 source ~/dotfile/zsh/.zsh_eval
 source ~/dotfile/zsh/.zsh_dir
+source ~/dotfile/zsh/.zsh_vimmode
+source ~/dotfile/zsh/fzf.zsh
 #dir

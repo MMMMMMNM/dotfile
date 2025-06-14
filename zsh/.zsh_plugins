@@ -7,7 +7,6 @@ zinit light zdharma-continuum/fast-syntax-highlighting
 zinit ice blockf
 zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-history-substring-search
-#zinit ice lucid wait"0a" from"gh-r" as"program" atload'eval "$(mcfly init zsh)"'
-#zinit light cantino/mcfly
-#zinit load djui/alias-tips
-zinit light skywind3000/z.lua
+zinit light MichaelAquilina/zsh-auto-notify
+zinit light pabloariasal/zfm
+zinit light hlissner/zsh-autopair

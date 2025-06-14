@@ -1,6 +1,7 @@
 export GTK_IM_MODULE=wayland
 export QT_IM_MODULE=fcitx
 export QT_QPA_PLATFORM=wayland
+#fzf zsh config
 export FZF_CTRL_T_OPTS=" --preview 'bat -n --color=always --line-range :500 {}'"
 export FZF_ALT_C_OPTS=" --preview 'lsd -ail --color=always'"
 export FZF_DEFAULT_OPTS=" \
@@ -11,12 +12,8 @@ export FZF_DEFAULT_OPTS=" \
 --multi"
 export EDIT=nvim
 export ZSH_AUTOSUGGEST_STRATEGY=(match_prev_cmd completion)
-export TLDR_LANGUAGE='zh'
-export MCFLY_LIGHT=TRUE
-export MCFLY_KEY_SCHEME=nvim
-export MCFLY_FUZZY=2
-export MCFLY_INTERFACE_VIEW=BOTTOM
-export MCFLY_DISABLE_MENU=TRUE
-export MCFLY_PROMPT="❯"
 export PATH=$PATH:/home/li/.cargo/bin
-
+#AUTO_NOTIFY config
+export AUTO_NOTIFY_THRESHOLD=10
+export AUTO_NOTIFY_TITLE="Hey! %command has just finished"
+export AUTO_NOTIFY_BODY="It completed in %elapsed seconds with exit code %exit_code"

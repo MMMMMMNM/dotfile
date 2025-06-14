@@ -21,3 +21,4 @@ git config --global url."https://bgithub.xyz/".insteadOF "https://github.com/"
 #zinit install
 git clone https://github.com/zdharma-continuum/zinit ~/.zinit/bin
 fast-theme XDG:catppuccin-mocha
+bat cache --build
