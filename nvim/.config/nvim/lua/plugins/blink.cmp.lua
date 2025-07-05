@@ -5,6 +5,7 @@ return {
 		"rafamadriz/friendly-snippets",
 		"mikavilpas/blink-ripgrep.nvim",
 		"xzbdmw/colorful-menu.nvim",
+		"MahanRahmati/blink-nerdfont.nvim",
 	},
 	version = "*",
 	---@module 'blink.cmp'
@@ -83,6 +84,7 @@ return {
 		-- 已定义启用的提供程序的默认列表，以便您可以扩展它
 		sources = {
 			default = {
+				"nerdfont",
 				"buffer",
 				"ripgrep",
 				"lsp",
@@ -92,6 +94,12 @@ return {
 			providers = {
 				-- score_offset设置优先级数字越大优先级越高
 				buffer = { score_offset = 3 },
+				nerdfont = {
+					module = "blink-nerdfont",
+					name = "Nerd Fonts",
+					score_offset = 15, -- Tune by preference
+					opts = { insert = true }, -- Insert nerdfont icon (default) or complete its name
+				},
 				ripgrep = {
 					module = "blink-ripgrep",
 					name = "Ripgrep",
