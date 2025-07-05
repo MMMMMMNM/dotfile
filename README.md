@@ -5,4 +5,4 @@
 
 # 🚀 Getting Started
 
-> bash git clone https://github.com/MMMMMMNM/dotfile <
+>bash git clone https://github.com/MMMMMMNM/dotfile <
