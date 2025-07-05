@@ -15,6 +15,9 @@ return {
 			filters = {
 				dotfiles = false,
 			},
+			actions = {
+				open_file = { quit_on_open = true },
+			},
 		})
 	end,
 }

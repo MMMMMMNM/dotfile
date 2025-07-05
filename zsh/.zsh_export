@@ -12,7 +12,8 @@ export FZF_DEFAULT_OPTS=" \
 --multi"
 export EDIT=nvim
 export ZSH_AUTOSUGGEST_STRATEGY=(match_prev_cmd completion)
-export PATH=$PATH:/home/li/.cargo/bin
+export PATH=$PATH:$HOME/.cargo/bin
+export PATH=$PATH:$HOME/.local/bin/
 #AUTO_NOTIFY config
 export AUTO_NOTIFY_THRESHOLD=10
 export AUTO_NOTIFY_TITLE="Hey! %command has just finished"

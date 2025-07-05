@@ -1,8 +1,10 @@
 return {
 	"saghen/blink.cmp",
+	event = "InsertEnter",
 	dependencies = {
 		"rafamadriz/friendly-snippets",
 		"mikavilpas/blink-ripgrep.nvim",
+		"xzbdmw/colorful-menu.nvim",
 	},
 	version = "*",
 	---@module 'blink.cmp'
@@ -11,7 +13,7 @@ return {
 		cmdline = {
 			keymap = {
 				-- 选择并接受预选择的第一个
-				["<CR>"] = { "select_and_accept", "fallback" },
+				["<CR>"] = { "accept", "fallback" },
 			},
 			completion = {
 				-- 自动显示补全窗口
@@ -20,6 +22,7 @@ return {
 				ghost_text = { enabled = false },
 			},
 		},
+		signature = { enabled = true },
 		keymap = {
 			preset = "none",
 			["<C-space>"] = { "show", "show_documentation", "hide_documentation" },
@@ -41,6 +44,23 @@ return {
 			documentation = { auto_show = true, auto_show_delay_ms = 500 },
 			-- 不预选第一个项目，选中后自动插入该项目文本
 			list = { selection = { preselect = false, auto_insert = true } },
+			menu = {
+				draw = {
+					-- We don't need label_description now because label and label_description are already
+					-- combined together in label by colorful-menu.nvim.
+					columns = { { "kind_icon" }, { "label", gap = 1 } },
+					components = {
+						label = {
+							text = function(ctx)
+								return require("colorful-menu").blink_components_text(ctx)
+							end,
+							highlight = function(ctx)
+								return require("colorful-menu").blink_components_highlight(ctx)
+							end,
+						},
+					},
+				},
+			},
 		},
 		-- 指定文件类型启用/禁用
 		enabled = function()
@@ -71,18 +91,17 @@ return {
 			},
 			providers = {
 				-- score_offset设置优先级数字越大优先级越高
-				buffer = { score_offset = 5 },
+				buffer = { score_offset = 3 },
 				ripgrep = {
 					module = "blink-ripgrep",
 					name = "Ripgrep",
-					score_offset = 4,
+					score_offset = 1,
 				},
-				path = { score_offset = 3 },
-				lsp = { score_offset = 2 },
-				snippets = { score_offset = 1 },
+				path = { score_offset = 2 },
+				lsp = { score_offset = 5 },
+				snippets = { score_offset = 4 },
 			},
 		},
+		-- 由于“opts_extend”，您的配置中的其他位置无需重新定义它
 	},
-	-- 由于“opts_extend”，您的配置中的其他位置无需重新定义它
-	opts_extend = { "sources.default" },
 }

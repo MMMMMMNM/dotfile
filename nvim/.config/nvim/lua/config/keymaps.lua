@@ -1,22 +1,25 @@
-vim.g.mapleader = " "
-vim.g.maplocalleader = "\\"
-local keymap = vim.keymap
+local map = function(Mode,Key,Cmd,Desc) vim.keymap.set(Mode,Key,Cmd,Desc) end
 local opt = { noremap = true }
---keymap.set("mode","key","commmnd")
---keymap.set("","","")
---keymap.set("n", "<leader>e", "<cmd>NvimTreeToggle<cr>")
-keymap.set("n", "H", "<cmd>BufferLineCyclePrev<CR>", opt)
-keymap.set("n", "L", "<cmd>BufferLineCycleNext<CR>", opt)
+map("n", "L", "<cmd>BufferLineCyceNext<CR>") --change buffer
 
-keymap.set("n", "<leader>sw", "<cmd>vsplit<cr>", opt)
-keymap.set("n", "<leader>ss", "<cmd>split<cr>", opt)
+map("n", "<leader>sw", "<cmd>vsplit<cr>",opt) -- vsplit
+map("n", "<leader>ss", "<cmd>split<cr>",opt) -- split
 
-keymap.set("n", "<leader>am", "<cmd>ASToggle<cr>", opt)
+map("n", "<leader>o", "<cmd>OverseerOpen<cr>",opt) -- Overseer Open Windows
+map("n", "<F5>", "<cmd>OverseerRun<cr>",opt) -- Overseer Run Code
 
-keymap.set({ "n", "x" }, "p", "<Plug>(YankyPutAfter)", opt)
-keymap.set({ "n", "x" }, "P", "<Plug>(YankyPutBefore)", opt)
-keymap.set({ "n", "x" }, "gp", "<Plug>(YankyGPutAfter)", opt)
-keymap.set({ "n", "x" }, "gP", "<Plug>(YankyGPutBefore)", opt)
+map("n", "<leader>am", "<cmd>ASToggle<cr>",opt)
 
-keymap.set("n", "<c-p>", "<Plug>(YankyPreviousEntry)", opt)
-keymap.set("n", "<c-n>", "<Plug>(YankyNextEntry)", opt)
+map({ "n", "i", "v" }, "<Left>", "<Nop>")
+map({ "n", "i", "v" }, "<Right>", "<Nop>")
+map({ "n", "i", "v" }, "<Up>", "<Nop>")
+map({ "n", "i", "v" }, "<Down>", "<Nop>")
+
+map("n", "<leader>fs", ":Namu symbols<cr>", {
+	desc = "Jump to LSP symbol",
+	silent = true,
+})
+map("n", "<leader>fm", ":Namu workspace<cr>", {
+	desc = "LSP Symbols - Workspace",
+	silent = true,
+})

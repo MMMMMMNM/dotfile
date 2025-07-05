@@ -4,9 +4,22 @@ return {
 		{ "neovim/nvim-lspconfig" },
 		{ "saghen/blink.cmp" },
 		{ "folke/neoconf.nvim" },
-		{ "folke/neodev.nvim" },
+		{
+			"folke/lazydev.nvim",
+			ft = "lua", -- only load on lua files
+			opts = {
+				library = {
+					-- See the configuration section for more details
+					-- Load luvit types when the `vim.uv` word is found
+					{ path = "${3rd}/luv/library", words = { "vim%.uv" } },
+				},
+			},
+		},
+
 		{ "williamboman/mason.nvim" },
 		{ "williamboman/mason-lspconfig.nvim" },
+		{ "jay-babu/mason-nvim-dap.nvim" },
+		{ "zapling/mason-conform.nvim" },
 		{
 			"MysticalDevil/inlay-hints.nvim",
 			event = "LspAttach",
@@ -22,7 +35,7 @@ return {
 		{ "nvimdev/lspsaga.nvim" },
 		{ "rachartier/tiny-inline-diagnostic.nvim" },
 	},
-	event = "BufNew",
+	event = { "VeryLazy" },
 	config = function()
 		vim.diagnostic.config({ virtual_text = false })
 		-- 打算启用的语言服务列表
@@ -33,6 +46,8 @@ return {
 			"rust_analyzer",
 			"clangd",
 		}
+		local dap = {}
+		local conform = {}
 		-- lsp_zero的相关配置
 		local lsp_zero = require("lsp-zero")
 		lsp_zero.on_attach(function(client, bufnr)
@@ -185,9 +200,11 @@ return {
 			disabled_ft = {}, -- List of filetypes to disable the plugin
 		})
 		require("lspsaga").setup()
-		require("neodev").setup()
+		require("lazydev").setup()
 		require("neoconf").setup()
 		require("mason").setup({})
+		require("mason-conform").setup({ ensure_installed = conform })
+		require("mason-nvim-dap").setup({ ensure_installed = dap })
 		require("mason-lspconfig").setup({ ensure_installed = servers })
 		-- cmp相关配置，通过for读取servers列表循环批量激活语言服务
 		local lspconfig = require("lspconfig")

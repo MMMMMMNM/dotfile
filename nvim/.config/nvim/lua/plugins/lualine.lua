@@ -1,7 +1,18 @@
 return {
 	"nvim-lualine/lualine.nvim",
-	event = "BufNew",
-	dependencies = { "nvim-tree/nvim-web-devicons", "AndreM222/copilot-lualine" },
+	events = {
+		"WinEnter",
+		"BufEnter",
+		"BufWritePost",
+		"SessionLoadPost",
+		"FileChangedShellPost",
+		"VimResized",
+		"Filetype",
+		"CursorMoved",
+		"CursorMovedI",
+		"ModeChanged",
+	},
+	dependencies = { "nvim-tree/nvim-web-devicons" },
 	config = function()
 		require("lualine").setup({
 			options = {
@@ -32,32 +43,6 @@ return {
 				lualine_b = { "branch", "diff", "diagnostics" },
 				lualine_c = { "filename" },
 				lualine_x = {
-					{
-						"copilot",
-						-- Default values
-						symbols = {
-							status = {
-								icons = {
-									enabled = " ",
-									sleep = " ", -- auto-trigger disabled
-									disabled = " ",
-									warning = " ",
-									unknown = " ",
-								},
-								hl = {
-									enabled = "#50FA7B",
-									sleep = "#AEB7D0",
-									disabled = "#6272A4",
-									warning = "#FFB86C",
-									unknown = "#FF5555",
-								},
-							},
-							spinners = "dots", -- has some premade spinners
-							spinner_color = "#6272A4",
-						},
-						show_colors = false,
-						show_loading = true,
-					},
 					"encoding",
 					"fileformat",
 					"filetype",
@@ -76,7 +61,7 @@ return {
 			tabline = {},
 			winbar = {},
 			inactive_winbar = {},
-			extensions = { "fzf", "nvim-tree", "toggleterm", "trouble" },
+			extensions = { "fzf", "nvim-tree", "toggleterm", "trouble", "lazy", "mason", "nvim-dap-ui" },
 		})
 	end,
 }

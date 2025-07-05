@@ -133,7 +133,8 @@
       ]
     },
     //"on-click": "pavucontrol"
-	"on-click": "easyeffects"
+	//"on-click": "easyeffects"
+	"on-click":"kitty pulsemixer"
   },
   "custom/recording": {
     "exec": "~/dotfile/bash_sh/wf-recorder.sh",
@@ -167,7 +168,7 @@
 	"tooltip-format-connected": "{device_enumerate}",
 	"tooltip-format-enumerate-connected": " {device_alias} 󰂄{device_battery_percentage}%",
 	"tooltip": true,
-	"on-click": "blueman-manager"
+	"on-click": "kitty bluetui"
  },
  "custom/cava_mviz": {
 	//    "exec": "~/.local/bin/caway -f 240 -b 10",
