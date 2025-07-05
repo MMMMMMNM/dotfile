@@ -4,5 +4,5 @@
 2. Git(clone support)
 
 # 🚀 Getting Started
-
->bash git clone https://github.com/MMMMMMNM/dotfile <
+*Use bash to run*
+```bash git clone https://github.com/MMMMMMNM/dotfile```
