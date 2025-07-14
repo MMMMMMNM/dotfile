@@ -1,37 +1,47 @@
 return {
 	"folke/trouble.nvim",
-	opts = {}, -- for default options, refer to the configuration section for custom setup.
-	cmd = "Trouble",
+	cmd = { "Trouble" },
+	opts = {
+		modes = {
+			lsp = {
+				win = { position = "right" },
+			},
+		},
+	},
 	keys = {
+		{ "<leader>tx", "<cmd>Trouble diagnostics toggle<cr>", desc = "Diagnostics (Trouble)" },
+		{ "<leader>tX", "<cmd>Trouble diagnostics toggle filter.buf=0<cr>", desc = "Buffer Diagnostics (Trouble)" },
+		{ "<leader>ts", "<cmd>Trouble symbols toggle<cr>", desc = "Symbols (Trouble)" },
+		{ "<leader>tS", "<cmd>Trouble lsp toggle<cr>", desc = "LSP references/definitions/... (Trouble)" },
+		{ "<leader>tL", "<cmd>Trouble loclist toggle<cr>", desc = "Location List (Trouble)" },
+		{ "<leader>tQ", "<cmd>Trouble qflist toggle<cr>", desc = "Quickfix List (Trouble)" },
 		{
-			"<leader>tx",
-			"<cmd>Trouble diagnostics toggle<cr>",
-			desc = "Diagnostics (Trouble)",
+			"tq",
+			function()
+				if require("trouble").is_open() then
+					require("trouble").prev({ skip_groups = true, jump = true })
+				else
+					local ok, err = pcall(vim.cmd.cprev)
+					if not ok then
+						vim.notify(err, vim.log.levels.ERROR)
+					end
+				end
+			end,
+			desc = "Previous Trouble/Quickfix Item",
 		},
 		{
-			"<leader>tX",
-			"<cmd>Trouble diagnostics toggle filter.buf=0<cr>",
-			desc = "Buffer Diagnostics (Trouble)",
-		},
-		{
-			"<leader>ts",
-			"<cmd>Trouble symbols toggle focus=false<cr>",
-			desc = "Symbols (Trouble)",
-		},
-		{
-			"<leader>tl",
-			"<cmd>Trouble lsp toggle focus=false win.position=right<cr>",
-			desc = "LSP Definitions / references / ... (Trouble)",
-		},
-		{
-			"<leader>tL",
-			"<cmd>Trouble loclist toggle<cr>",
-			desc = "Location List (Trouble)",
-		},
-		{
-			"<leader>tQ",
-			"<cmd>Trouble qflist toggle<cr>",
-			desc = "Quickfix List (Trouble)",
+			"]q",
+			function()
+				if require("trouble").is_open() then
+					require("trouble").next({ skip_groups = true, jump = true })
+				else
+					local ok, err = pcall(vim.cmd.cnext)
+					if not ok then
+						vim.notify(err, vim.log.levels.ERROR)
+					end
+				end
+			end,
+			desc = "Next Trouble/Quickfix Item",
 		},
 	},
 }

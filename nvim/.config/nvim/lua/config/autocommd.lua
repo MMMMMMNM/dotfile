@@ -22,3 +22,8 @@ vim.api.nvim_create_autocmd({ "QuitPre" }, {
 		vim.cmd("NvimTreeClose")
 	end,
 })
+vim.api.nvim_create_autocmd({ "InsertEnter", "InsertLeave" }, {
+	callback = function()
+		vim.cmd("RecordKeyToggle")
+	end,
+})

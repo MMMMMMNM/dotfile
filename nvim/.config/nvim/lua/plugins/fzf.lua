@@ -1,9 +1,7 @@
 return {
 	"ibhagwan/fzf-lua",
 	-- optional for icon support
-	dependencies = { "nvim-tree/nvim-web-devicons" },
-	-- or if using mini.icons/mini.nvim
-	-- dependencies = { "echasnovski/mini.icons" },
+	dependencies = { "nvim-tree/nvim-web-devicons", "folke/trouble.nvim" },
 	cmd = { "FzfLua" },
 	keys = {
 		{ "<leader>fw", "<cmd>FzfLua grep<cr>", desc = " found word" },
@@ -13,5 +11,4 @@ return {
 		{ "<leader>f?", "<cmd>FzfLua helptags<cr>", desc = " found helptags" },
 		{ "<leader>fp", "<cmd>FzfLua grep_project<cr>", desc = " found all project lines" },
 	},
-	opts = {},
 }

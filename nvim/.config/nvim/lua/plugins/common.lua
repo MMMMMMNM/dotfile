@@ -25,10 +25,20 @@ return {
 	},
 	{
 		"echasnovski/mini.pairs",
-		event = "InsertEnter",
-		opts = {},
+		event = "VeryLazy",
+		opts = {
+			modes = { insert = true, command = true, terminal = false },
+			-- skip autopair when next character is one of these
+			skip_next = [=[[%w%%%'%[%"%.%`%$]]=],
+			-- skip autopair when the cursor is inside these treesitter nodes
+			skip_ts = { "string" },
+			-- skip autopair when next character is closing pair
+			-- and there are more closing pairs than opening pairs
+			skip_unbalanced = true,
+			-- better deal with markdown code blocks
+			markdown = true,
+		},
 	},
-
 	{
 		"0x00-ketsu/autosave.nvim",
 		-- lazy-loading on event
@@ -109,5 +119,26 @@ return {
 			auto_create = true, -- Enables/disables auto creating new session files. Can take a function that should return true/false if a new session file should be created or not
 			-- log_level = 'debug',
 		},
+	},
+	{
+		"letieu/hacker.nvim",
+		cmd = { "Hack", "HackFollow", "HackAuto", "HackFollowAuto" },
+		opts = {
+			content = [[ Code want to show.... ]], -- The code snippet that show when typing
+			filetype = "lua", -- filetype of code snippet
+			speed = { -- characters insert each time, random from min -> max
+				min = 2,
+				max = 10,
+			},
+			is_popup = false, -- show random float window when typing
+			popup_after = 5,
+		},
+	},
+	{
+		"wsdjeg/record-key.nvim",
+		cmds = { "RecordKeyToggle" },
+		config = function()
+			vim.keymap.set("n", "<leader>sk", "<cmd>RecordKeyToggle<cr>", { silent = true })
+		end,
 	},
 }

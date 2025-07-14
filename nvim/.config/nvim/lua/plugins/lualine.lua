@@ -12,7 +12,7 @@ return {
 		"CursorMovedI",
 		"ModeChanged",
 	},
-	dependencies = { "nvim-tree/nvim-web-devicons" },
+	dependencies = { "nvim-tree/nvim-web-devicons", { "Hashino/speed.nvim", opts = { float_buffer = false } } },
 	config = function()
 		require("lualine").setup({
 			options = {
@@ -23,7 +23,7 @@ return {
 				component_separators = { left = "", right = "" },
 				section_separators = { left = "", right = "" },
 				disabled_filetypes = {
-					statusline = {},
+					statusline = { "dashboard", "alpha", "ministarter", "snacks_dashboard" },
 					winbar = {},
 				},
 				ignore_focus = {},
@@ -41,9 +41,9 @@ return {
 					"mode",
 				},
 				lualine_b = { "branch", "diff", "diagnostics" },
-				lualine_c = { "filename" },
+				lualine_c = { "filename", require("speed").current },
 				lualine_x = {
-					"encoding",
+				  	"encoding",
 					"fileformat",
 					"filetype",
 				},
@@ -63,5 +63,5 @@ return {
 			inactive_winbar = {},
 			extensions = { "fzf", "nvim-tree", "toggleterm", "trouble", "lazy", "mason", "nvim-dap-ui" },
 		})
-	end,
+    end
 }

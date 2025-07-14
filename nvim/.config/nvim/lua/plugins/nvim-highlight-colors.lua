@@ -1,7 +1,7 @@
 return {
 	{
 		"brenoprata10/nvim-highlight-colors",
-		ft = {"css","html","markdown"},
+		ft = { "css", "html", "markdown" },
 		opts = {
 			---Render style
 			---@usage 'background'|'foreground'|'virtual'
