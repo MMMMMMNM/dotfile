@@ -187,7 +187,7 @@
  },
  "custom/wallpaper": {
     "format": "",
-    "on-click": "bash -c waypaper &"
+    "on-click": "waypaper"
  },
  "custom/weather": {
     "format": "{}°",
@@ -202,8 +202,8 @@
 },
 "custom/settings": {
 	"format": " ",
-	"on-click": "kitty yazi ~/dotfile",
+	"on-click": "isd",
 	"tooltip": true,
-	"tooltip-format": "Hyprland Settings Menu"
+	"tooltip-format": "Systemd Settings Menu"
 }
 }
