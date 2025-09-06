@@ -1,0 +1,6 @@
+require("config.lazy")
+require("config.options")
+require("config.keymaps")
+require("config.autocommd")
+require("config.neovide")
+require("config.disabled")

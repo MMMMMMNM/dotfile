@@ -1,0 +1,13 @@
+
+//@theme "/usr/share/rofi/themes/catppuccin-macchiato.rasi"
+@import "/shared/ui.rasi"
+@import "/shared/common.rasi"
+configuration {
+  modi :"drun,run,window";
+  show-icons: true;
+  display-drun: "";
+  display-run: "";
+  display-window: "";
+  drun-display-format: "{name}";
+  }
+  

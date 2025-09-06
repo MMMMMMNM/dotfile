@@ -1,0 +1,422 @@
+2025-08-06T15:54:11 exception: Failed to open "/home/li/.config/mpd/state": No such file or directory
+2025-08-06T15:54:11 exception: Failed to access /home/li/Music: No such file or directory
+2025-08-06T15:54:11 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-06T15:54:11 config: option "device" on line 17 was not recognized
+2025-08-07T22:52:24 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-07T22:52:24 config: option "device" on line 17 was not recognized
+2025-08-07T23:17:35 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:17:51 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:17:53 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:17:53 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:17:53 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:17:53 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:17:54 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:17:59 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:01 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:01 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:02 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:02 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:02 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:02 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:03 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:03 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:03 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:18:03 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:19:22 config: option "device" on line 17 was not recognized
+2025-08-07T23:19:30 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:19:34 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:19:34 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:19:34 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:19:34 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:21:47 config: option "device" on line 17 was not recognized
+2025-08-07T23:22:05 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:09 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:09 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:09 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:10 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:10 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:10 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:10 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:11 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:11 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:11 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:11 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:12 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:12 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:12 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:12 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:39 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:22:39 update: added /1206608124.mp3
+2025-08-07T23:22:39 update: added /M500000jJ2Kz4G3ZT7.mp3
+2025-08-07T23:22:40 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:25:17 output: Failed to play on "pulse audio" (pulse): disconnected
+2025-08-07T23:26:40 config: option "device" on line 17 was not recognized
+2025-08-07T23:27:21 player: played "M500000jJ2Kz4G3ZT7.mp3"
+2025-08-07T23:27:23 exception: Not playing
+2025-08-07T23:27:26 exception: Not playing
+2025-08-07T23:27:26 exception: Not playing
+2025-08-07T23:27:26 exception: Not playing
+2025-08-07T23:27:26 exception: Not playing
+2025-08-07T23:30:32 player: played "1206608124.mp3"
+2025-08-07T23:32:02 player: played "M500000jJ2Kz4G3ZT7.mp3"
+2025-08-07T23:32:09 config: option "device" on line 17 was not recognized
+2025-08-07T23:32:09 update: added /1206608124.mp3
+2025-08-07T23:32:09 update: added /M500000jJ2Kz4G3ZT7.mp3
+2025-08-07T23:32:22 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:33:08 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:33:08 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:33:08 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:33:08 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:34:18 player: played "M500000jJ2Kz4G3ZT7.mp3"
+2025-08-07T23:34:20 exception: Not playing
+2025-08-07T23:37:45 player: played "M500000jJ2Kz4G3ZT7.mp3"
+2025-08-07T23:44:18 player: played "M500000jJ2Kz4G3ZT7.mp3"
+2025-08-07T23:44:33 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:51:44 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:51:48 update: added /拂晓 官方EP [2707352557].mp3
+2025-08-07T23:51:50 exception: Failed to open /home/li/.config/mpd/playlists: No such file or directory
+2025-08-07T23:55:12 player: played "拂晓 官方EP [2707352557].mp3"
+2025-08-08T00:03:00 config: option "device" on line 17 was not recognized
+2025-08-08T11:47:50 config: option "device" on line 17 was not recognized
+2025-08-08T12:06:04 player: played "拂晓 官方EP [2707352557].mp3"
+2025-08-08T13:06:08 config: option "device" on line 17 was not recognized
+2025-08-08T13:06:12 config: option "device" on line 17 was not recognized
+2025-08-08T13:06:30 config: option "device" on line 17 was not recognized
+2025-08-08T13:06:56 config: option "device" on line 17 was not recognized
+2025-08-08T13:07:11 player: played "http://m801.music.126.net/20250808133204/8446c910d49a9b6f9a09f46f4a330771/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36046776225/f0ee/b61a/10da/05973a35f81cee39031d1c63383ae7e1.mp3?vuutv=d0hemJu+4k5zjfZFXuqTtClpO0zfc0+eGXTsQNxe99+DWzXEpBmxr1VmhPs+Q6i3t/EPxFTT0RdfFc5Kx+Gclajh5oTxUa0/Zybd5FUfJj8="
+2025-08-08T13:08:06 player: played "http://m801.music.126.net/20250808133211/60c0e6e51d82d46c7a5fbd4600a78071/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=oUbtvVh6l9hdI8mynWuH33RNVjwU1X2QrTJi7U+x8juuuG8bF3z8YtNQr4tvFKVOz9T+RDmvC8RHjT3v09hGrrP9sJ3vawE9t5ZZ/ya906U="
+2025-08-08T13:08:22 player: played "http://m801.music.126.net/20250808133306/e5c3167167f4c386db3bbfbffc925840/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57664902465/d27e/6950/dc79/15680c398c384c3c0529598c86cf7797.mp3?vuutv=Af6moOviot2f3WdL8HRtUDKjVhXWsG3xOxeD0cvGC7pfuQHSqQupqLTvgSBubffOz5uolqDuNr0tgn2c2I6y/zNttHEWUs/i/2OZLIB+CqU="
+2025-08-08T13:08:31 player: played "http://m801.music.126.net/20250808133322/38c131602aa2e3dd637dffeeae904457/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60854168020/cb57/cae0/e787/4a2cb122412854e669d06384e6130f5b.mp3?vuutv=Gm+eh/GLnJo+g5tj/qqrH2MFwylXCIvSnR+up1IbG/Vva5Z1jswXEVF19V52rHg2+tNfXwqQ/RhEUnteVymKfKQCkY1Y2H9DO/zSHEHOKng="
+2025-08-08T13:09:59 inotify: music directory was removed - cannot continue to watch it
+2025-08-08T13:10:41 player: played "http://m801.music.126.net/20250808133331/0f6b97519d711284593436fdb356755f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=OikbhN8RQIoFTO2VZ0W7+qe+s1KwBSuTOZa5ODBwJ1r51QEpJj4i9nWFYtTUyvnHNwC9t51u7SK3Kqo8wHSxQPT9h6oKt8OHShe07kSiPHo="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-08T13:10:41 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-08T13:13:42 player: played "http://er.sycdn.kuwo.cn/e11f77fd80c492e00455e3745e77ef24/689586d1/resource/30106/trackmedia/M800004byR8i3vzNcP.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-08T13:13:43 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-08T13:15:07 player: played "http://er.sycdn.kuwo.cn/e11f77fd80c492e00455e3745e77ef24/689586d1/resource/30106/trackmedia/M800004byR8i3vzNcP.mp3?bitrate"
+2025-08-08T13:18:24 player: played "http://m701.music.126.net/20250808134007/4219a1bfda61c28079418d746c42eef1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35873693120/291e/1623/dbeb/490016c9bbe131914813dbb048ff9ace.mp3?vuutv=b5SBSluBt9iZLpCbSE0GQgbiM1Xfn0b7U1DyV16qRJBwpJYG8NY3X1lduBOIxYRHlt84DzfOO4swUkfNuU3P7/e7IG9wc8rNX8E/xf6sQZM="
+2025-08-08T13:18:26 player: played "http://m7.music.126.net/20250808134324/2f661c801c60bcce87edb61482d17109/ymusic/bd5e/6c74/5f3b/c7ff5ec94feb1ff5259c1d896f941d8e.mp3?vuutv=IGivT1ARE8uQjTHT/sKSMNtPmHyBKjmFbcR3IxZdYuyYrOoMctEtWWfT9/BLzHRNzs8pfM21fdfPKF+qmfgQSpOgvPiTFvhk+iIvY3JjBnA="
+2025-08-08T13:18:28 player: played "http://m801.music.126.net/20250808134326/88c14b5c2a266d2b7940a062344ea5fe/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59854160839/ad42/03ea/ebcc/6f10aa05341ea27d41a62743ae9fbef4.mp3?vuutv=oMJx2deJo2D3daLdEnmHfCgElzMmwYzfUTguqYW+vBuxYQqga7buVkjv6sD6AQRIOW1fQpS4tcRZZ7wp/2rT6NfIE4z1GkP+ruLx4RAyCZE="
+2025-08-08T13:18:38 player: played "http://m701.music.126.net/20250808134328/5cff308f11237dd39cabfd60bb737d17/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096426316/b03a/b21b/c8e4/f70ef37483b26affaded2065180e9e91.mp3?vuutv=JL+IzLVmuDkODGXoq6VLSDX0JCyhUCQg69dllJUva4yyl153CJSY5lzhHHUagdQoqpqkdwsWLi+9MZejBafWfkere8G1uPKPVZO0ajWzoYM="
+2025-08-08T21:05:45 player: played "http://m701.music.126.net/20250808134338/dc9387a125abaa4b3dbd0e43a74dd71c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59449593548/42af/b259/672e/7a8d3f4efcc3eb2076df71c5daf9abec.mp3?vuutv=z9utpKbylxo3dl44ZZ1uYFvWhhmRerQVGNEiKLBMWY87A6xSSLPYKaN/P7A/8TqB3raq09VqJrd8nO7+QFz7jfjjwBHUWAMslEr6jxcHlDo="
+2025-08-08T21:07:42 player: played "http://m801.music.126.net/20250808213045/3819e5807c27ad34da7c113508c04e03/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=JJJDYyVZPMOYoPe4KXXjUlFc7DooJzIEIV/aR6c3w/69sGtL3WDmDZPOzVE32wK1ddvfuJcH3Dz3EalU3XG9eIPu1VoCO7O83DMION0fZxA="
+2025-08-08T21:07:56 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-08T21:07:56 config: option "device" on line 17 was not recognized
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-08T21:08:04 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-08T21:11:26 player: played "http://er.sycdn.kuwo.cn/47cd82766512ff12c97b4593f8e36ac9/6895f6b4/resource/30106/trackmedia/M500002HGZMQ1UOqrb.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-08T21:11:26 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-08T21:13:13 player: played "http://er.sycdn.kuwo.cn/47cd82766512ff12c97b4593f8e36ac9/6895f6b4/resource/30106/trackmedia/M500002HGZMQ1UOqrb.mp3?bitrate"
+2025-08-08T21:13:14 player: played "http://m801.music.126.net/20250808213813/11451fa5ac2f79d75ce40e52c0d3b502/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36046776225/f0ee/b61a/10da/05973a35f81cee39031d1c63383ae7e1.mp3?vuutv=064B8HBpzQDKRS8NvFG5PtByz+B5EMlm9vLmN2yxkZpSfTFSgPw8NNuTEDUzujK0XMv3GY/r+C2IxagGgqgs1TpTsDUoAeqUis6D3JX/0HU="
+2025-08-08T21:17:13 player: played "http://m701.music.126.net/20250808213814/046e0aabe974c86b05f074625491cef6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=lsBkg5Fh5JVMkvyuN8jtD/AiocyaYsEOfzS/tnJ2Idg/klJog1Z6vItqF/X2ybrHqsNqE3u4Q1hPf5eli0EgJKQENz6kueLk2jrko7fbSak="
+2025-08-08T21:21:12 player: played "http://m701.music.126.net/20250808214213/69835d0b1e41eca26e04ff3892c1c233/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=LbWTpafpvS74nhD4l6gBFEy+OzjZpflzzwHOAwa4kobpp+YGDokiRIuAlMLL1z2QnBhPrZrdKijfPzGwtRbSbXdyH2mfeVPBww+9QKGJT8Y="
+2025-08-08T21:25:10 player: played "http://m701.music.126.net/20250808214612/22d37749dbba8f84e46dc99db7419435/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=B9RTUra29sqMm2g5z9djok3u9a6notQf//EaGyOJtPsaUn5Lq9tFPNGd+SXiENgp4qt+BzH9j+QeZwa3+/+9ohJJhyANYr3ZwjkO0XTaEUU="
+2025-08-08T21:37:41 player: played "http://m701.music.126.net/20250808215011/e70d2205f58aecf8f23abd22abbf56e6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=blCGy0Y5VatNlEUaLuyi43w/XXuBaGewEAIsDfqHkEeMKNaKEKQM6ojZhHjdEcJsGS1s+iNPoOOvFyuZT9mIlpDPjtVLRSbMTCEF6pNkI+0="
+2025-08-08T21:39:57 player: played "http://m701.music.126.net/20250808220241/3cc7778d0f856ddfeb502e465f528ccb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=jbFUVkpDhKbPu623tb8PumLwoaCC3MCGrMkZ7Qil8Hse3ojpAgbj78LwLLLjYsdF3AMpjqq8WgjRpk2pvpR904Dp+Hd8F9zpIhqbBnQDHE8="
+2025-08-08T21:42:13 player: played "http://m701.music.126.net/20250808220457/334f7c58325138994d8a7f81ec70b659/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=Bt9jnFyDNUq8Kwq9nxldfCa1XjDS/GoKkroAsc6y01aZNkgZfM46dhvaZvjtb9AdtYq0yqLLetyzvlcFKQOXY/DJuJ4m6NIAnKEaLHouQPk="
+2025-08-08T21:44:30 player: played "http://m801.music.126.net/20250808220714/20a783f233ab847d0e377c0817676d80/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=SEGLoIm2SWJfQ+PhMbv33hNRP4ogevqzNhJ0p5DCFT7pCzbKzQSWTpCa9lfclgQaN5rU9MPFNEcTaVO1aML9IYJqupDpwp3RZqqgHchrv/w="
+2025-08-08T21:46:47 player: played "http://m701.music.126.net/20250808220930/001f02de5ef3034ce29df04a821aa062/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=gaVqaVXJybvwlH1vkl3wRApwTnwnB7Ib3uHzXSlMIE/FBirVqw0SNtkF1X7LURUyvsYgbzM546rF2i1M6Qe8F6EYiuLTGuAiyDuXdWHocAE="
+2025-08-08T21:49:03 player: played "http://m801.music.126.net/20250808221147/cd09f9a6f8a39e30fafc0d90af7eb721/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=iu9Oi6+aE1V6Z1Sg//6p+u8l52oboF9AWHiKumrWY9KSgSz4LKg42wTdzJKdxXMqZ2qQVl8MbF76+w1FFru0gWrOBhOZGYxjcQfzQKdSK4o="
+2025-08-08T21:51:20 player: played "http://m801.music.126.net/20250808221403/e61e00d95d59830ba6a002d3c1df6d7f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=9LJEP15nsIdLT1F8rJiMrmQA56mxzeAjcWSVU93OwE24xRkz9Yefl72kD8KzGHQLxBFX2DsxrsJYyS0u1HRHZKJXbvytlTfZ+Dk0ajZJpkQ="
+2025-08-08T21:53:36 player: played "http://m701.music.126.net/20250808221620/86f657776c9b528c3c6159e0a53f42cc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=6BGja8jV0TNOncXrwqIbV7gXtudmFuc/tlRS98mTwVUklmzGCW73y+OjNKYSsdITfMp0tlTYJr++K30jkztb8KGwrNlYMbY2YYmjvebZDdQ="
+2025-08-08T21:55:53 player: played "http://m801.music.126.net/20250808221837/4fd52c8a71119afb54f54f10e1881bbc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=kylj75hjJrponPZhFx7X5aXRXKvCC4bN9C1aDJg2wmbQ08LIgL33N2ANCc/tvgIona7Z/q5mBZin8e5hc0DoxUbXr3J8/swdaEKgapcertU="
+2025-08-08T21:58:10 player: played "http://m801.music.126.net/20250808222053/eabcd8c9886323395b3662468e8ec6eb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=cirYUSgTujFpVgn3jMdzj8kj9uc/zvAASknwTa1B1HWikRfjeQWB+EjoYxqe5RSa8xWC75+MNyEBgQ0ig5+x2aRthnrXqZpQCVCNMJM0K7s="
+2025-08-08T21:59:48 player: played "http://m801.music.126.net/20250808222310/f766a33de5d1c012b701c88527110e5f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=TfKnYXDEn5h3ExauBfz1NVFrABXrGOu0H2IjFo2pE8xx5ZscserHjf4GeWAKBmYFjHKqGZOgh8uzRx20wRp91I17UPVPL8VjuAcyeznYmNw="
+2025-08-08T21:59:54 player: played "http://m801.music.126.net/20250808222448/2cec46edebc5d9caa994728536bd708d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36046776225/f0ee/b61a/10da/05973a35f81cee39031d1c63383ae7e1.mp3?vuutv=XmmoIMUthR1S5d4yMGwxw6TmID4+AvCmXtEJ6gZQG4jRLlfN71t7HKk6McjVrKc6P45ka6M6cO4bU949IGRc8JbEWt6Qcc5ZixjO90DjTL4="
+2025-08-08T21:59:55 player: played "http://m701.music.126.net/20250808222454/1a5f01e8b408b1747d0881f23f2fec23/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59423931336/a134/b614/e575/87b52e09b3b93ecfde57a7cfdd2bd007.mp3?vuutv=89Ii5v7gS1QlKHs3UmSxKhrk2mpe1/PEmEVW+HmnsUY+YFxSVUjO1nkOITlDmzl27HwpHVUGVUkuCncjO0XAxQqRE/ZVlm6YWmepJP7QgtI="
+2025-08-08T22:00:00 player: played "http://m701.music.126.net/20250808222455/ee1cc468865f9a36bcd117dbe334faf7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59854160839/ad42/03ea/ebcc/6f10aa05341ea27d41a62743ae9fbef4.mp3?vuutv=j6TknaTrQX9Z2FYaRrOzFDGb0HOgzMSqN8ZDYrA1rvySmwtCTGnYHKoVFo/uMkBiTI2L9bb9x1aZxcJV/8HHjsnZuj+RcQTFiJMk7j69z9g="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-08T22:00:00 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-08T22:08:07 player: played "http://er.sycdn.kuwo.cn/af1c7cdad1cffa4cbb61fae021cc46f4/689602e0/resource/30106/trackmedia/M800004byR8i3vzNcP.mp3?bitrate"
+2025-08-08T22:58:33 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-08T22:58:33 config: option "device" on line 17 was not recognized
+2025-08-08T23:03:12 player: played "http://m701.music.126.net/20250808232438/228f7c6b47bd3fbd25f31f2641e282c0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=/1iWGa3DMh0yWjqJx3HpXMkDbVTIC2DRlVW1tHXssQ1I6o8ZNOpdFDt4dDkCgmfwMaMGb6FcY2OLD4+XZ7FH0xe5TSPjT9WHxqdB0n2NG1o="
+2025-08-08T23:06:46 player: played "http://m701.music.126.net/20250808232812/62a1675fb3894edefd4701be07fccda2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=aSX8kTl1D4jEb+8HFtzMUD2pUEac/JMTgH6ckbStErY4fWia8WVbLYZERKD6rW8XOaDTE9koRXGW72SSFgFQWQL8Jx5mX0A8855+L9jJRmw="
+2025-08-08T23:10:20 player: played "http://m801.music.126.net/20250808233146/933af3d89dcbf623493ba8fb3b671c60/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=p9PWbOk0812d/ZLdbUwH6FcXsto+PQnHACojfaD74lzIBjkzMnnSPBtAc8GWjzFC4on3M+3u7j//BqnSJZOm4Q78iOVILjZ3QF+r+MY+Qes="
+2025-08-08T23:13:54 player: played "http://m701.music.126.net/20250808233520/f7d5696760d99635f42293d96ae9f9eb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=hInoJvalD1bCBNZgCKw+AsScns+1mXJlmXI+cSIfTaNfcn95CaJl3NxJyLr6PNdRP/t+U1O0cwzPhJg7g+QJq0i7f++oU7zP0lhXEsGNosE="
+2025-08-08T23:17:28 player: played "http://m701.music.126.net/20250808233854/13ad1150f6ad9e16ab2e3a749f97f3ef/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=aGsi+Im0Ne1VTARy3Bk1CL1UT9aCAVYCDPhrXYnpOTemeLLPdC3q5KVDJyBQESFWYAZrSj4OFl98EG1GDmmXOqBJAkKMNAKdnvkKxQN5jbE="
+2025-08-08T23:21:02 player: played "http://m801.music.126.net/20250808234229/6da2436369ab9fe034085dab819561d0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=zhlypM2jiNQyXcJwFCwNcttUDaT4JnRm3GgWaGaRlGxIWRuFRiiqm/hyqM9ep9Yx9CMWkKUdJfxRWytfWSADs3gpEj6N0+GsBQaS+l99nU4="
+2025-08-08T23:24:36 player: played "http://m801.music.126.net/20250808234603/c5b33236f4d34a33362ba1aeba6fab9c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=nckawjxoh6YxeAjxQKH6Pn1c3YyiQNWsvEBx8Sr6Lh7+ED4EBFvsb3ZZQjpNs48S+cUDXms27Pz2v6Aahj9fdjrVxOIcYgKriD7zZUCz6g4="
+2025-08-09T05:20:45 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-09T05:20:45 config: option "device" on line 17 was not recognized
+2025-08-09T05:20:45 player: played "http://m801.music.126.net/20250808234937/e28d9d6a227f53972141bc443748c599/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=8MYJBxgPzP2EUMXO6x4gbkn7SqUrQjijb8pAvpZZG1A0O70mRTa25SWso3PE7S2qGaHV/F2eY4B71iJDMYf7y3xTt6vhtCWSCK87B00Qvzw="
+2025-08-09T05:31:50 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-09T05:31:50 config: option "device" on line 17 was not recognized
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-09T05:31:59 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-09T05:32:03 player: played "http://er.sycdn.kuwo.cn/914e665a7de0ae9d69c3a34c9f3dcbd6/68966ccf/resource/30106/trackmedia/M500002HGZMQ1UOqrb.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-09T05:32:03 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-09T05:32:14 player: played "http://lv.sycdn.kuwo.cn/f38c181392aaf46e1473bb56606c2757/68966cd3/resource/30106/trackmedia/M800001F0yTB3mtOX4.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-09T05:32:14 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-09T05:56:49 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-09T05:56:49 config: option "device" on line 17 was not recognized
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-09T05:56:53 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-09T06:26:03 player: played "http://er.sycdn.kuwo.cn/7bcd6b6326ab780162062f21f407039b/689672a5/resource/30106/trackmedia/M800004byR8i3vzNcP.mp3?bitrate"
+2025-08-09T06:28:19 player: played "http://m701.music.126.net/20250809065103/3a75831705521e2d124c18ced3e2bbb6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60944914793/26b0/a87f/36d4/6d8dd7c08c67af3b30cab250df0c4c28.mp3?vuutv=0zW0XxGboTe1kpvE6csUOmJzqsY/VPFUI5jeLdNmrwZzcie8+l7eVBmWwOu4pHJ7+C3ZJ/BDBmTnwbRzCFJOA6KSsSGMYmM3ueR3Vg+nmiM="
+2025-08-09T06:30:36 player: played "http://m801.music.126.net/20250809065319/09b2656633040fd8231243708f2f83cc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984653180/54ed/421e/d1ae/1479155de51c23d2830d94a5c120c196.mp3?vuutv=GEwYMvH12qiAWuzt4nKgFAmw0W+8HlKQh4x3P4rTRFk6GfuUCX8kQzMAqjdAbR2sak1Mm9aEWVuqu0VjbNpnv8Bxr0gu1gxy5fADI6GkHoE="
+2025-08-09T06:30:43 player: played "http://m701.music.126.net/20250809065536/64167f6ddd3bca26a9dc6c8319eba962/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60508642678/ec1c/7a70/4d21/643010e399e575c5f6868d457f986e74.mp3?vuutv=T8PtFAtQ0Q93Pi/lujmXCwoyLBB/GahvpY9q1cnZVVdvSA2/IlVTVBWhJrSAdpXWN6aEpq7qdAOXpzyNo6VoQTWRqObjiCWQ2GYxChsGwes="
+2025-08-09T06:30:50 player: played "http://m801.music.126.net/20250809065543/2231791f7d9063c46ddfb8554d15c50f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/61327677703/0af1/0c24/0f90/43ef91ff4248b8e99367f2b4b9b53ad5.mp3?vuutv=n8NgBRyx06T8kXBTzJBbYPMjCd8O+YSlsQTIRisp5KwtfLxRoowL/TU87LfqnU9NFWnLdHDf7WnWWgJqa0CkS+3nC9ZWvCYLqyd2sYJsh+I="
+2025-08-09T06:32:48 player: played "http://m801.music.126.net/20250809065550/5a4d62178210f653811731fc6c58557c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60508642678/ec1c/7a70/4d21/643010e399e575c5f6868d457f986e74.mp3?vuutv=DvpC/469V2XURxfBXQ5EvBsM+syuVLxo3rCreZGy+zlf1aIJeII00cw4mIeDaPHgFRe1AIE5r1WRmauKV593u5LB/uAjWUNQ8+H9r6+Hp0k="
+2025-08-09T06:33:53 player: played "http://m701.music.126.net/20250809065748/166ea75db08fccf9b1e694033f87e276/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60508642678/ec1c/7a70/4d21/643010e399e575c5f6868d457f986e74.mp3?vuutv=AIoHv1CtbV8LQEYN+bNMCBh5k9LguQg4rNrzZwn+FEEAgi5S1iULuK2JpDIJXqjym5esCESlEfkMj0SFgTIuQmL5HX3R7XmAJFkKcfmPB4Q="
+2025-08-09T06:35:19 player: played "http://m701.music.126.net/20250809065853/4adb6d7170939c70afcff1d239027e8f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60944914793/26b0/a87f/36d4/6d8dd7c08c67af3b30cab250df0c4c28.mp3?vuutv=kW771fb7XECyOP0Br2fhHGt3Ol9T895aHugO5v+AP0myD1Ap9u7VZg76qLRfPYhOLkN1EWxKuNYBruUgE4doN50gHdE6FkC/4E5fAvjzuWQ="
+2025-08-09T06:35:57 player: played "http://m801.music.126.net/20250809070019/85a88dd37fb9e07c08e2faf02315db48/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984653180/54ed/421e/d1ae/1479155de51c23d2830d94a5c120c196.mp3?vuutv=X8kS5Ub0UQK4lBsgZg0gZkNW5BEWadIm2Nk2YgArYJLmE5mCzCRspTpY/pBpj82F7UbLHvGMqbVPMGMOvXSTGWUA8nhn+LWXWs4VN9ogCXs="
+2025-08-09T06:36:02 player: played "http://m801.music.126.net/20250809070057/30859d5097419d3a97869afcbd1da8e3/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14355764434/e673/5462/d4d4/889435c71d00ea645a0348b29ce8fa01.mp3?vuutv=gdHsn+eEPLizArvXIxgGFLjthuM8+G12nfuR418zSaXkW69vs6LyLlMjpi7PEzb1dYBHnp2SwbpkoBiVLJby7mFsCx1DLB+lAfYxpqALjoM="
+2025-08-09T06:36:06 player: played "http://m801.music.126.net/20250809070102/d27357119a3a3f33c7d0a5dc15638222/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/24665378748/5c58/5997/b218/c50dbb393a3a65087aca4f6871e6c81f.mp3?vuutv=wVeXOFg2wzVUwix4IJUe91Yiv5R+pd1Dp2CMylj5QcXPni1Q9PLNLoVYHoITQixMW0MrJ8iSjVUUlqWOYudO9MrZ0fPc6ynS44IJn+m3U18="
+2025-08-09T06:36:10 player: played "http://m801.music.126.net/20250809070106/05beea0fc6d4f20896d72387edd2d668/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=Z/wWa+sM4nhJI+X+jilGvuxpOnjIjz+N9T99goLZ+q4O2VO0mNa8GMWKZbXqi5s3Tns83gzriorA31maNF0MJY9WmoJXyTzHl8XInVVJt5M="
+2025-08-09T06:36:20 player: played "http://m801.music.126.net/20250809070110/f0cb7d6b2c10fcf1afbc906b32a7ae7d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/61432835696/f6e6/3924/148b/1e3c0ae94f2bf5defd19942f702888cc.mp3?vuutv=2Kla59Mgl54flnTrcKiFkz9miUV5dw2n4YknKa0ONgMXaSCbMbC6g3nHYn6c8bnPueXTCZD+VtgN1Ru5v24icVMKPII0s75jlcVjHQosR30="
+2025-08-09T06:39:53 player: played "http://m701.music.126.net/20250809070119/504e6279f561a54370e54ae63974988e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=0YFp1ve3IIAXGOBmv1M6XOwy18pgVuD0a7wAl3Ks5iv/ehsnpwiuRKlUaGq+SsMA0SaKGWtHg8xtJ4Ajn3nHEsIYhf7jJip+SNikP3AObsk="
+2025-08-09T06:43:27 player: played "http://m701.music.126.net/20250809070454/a5c071da1c9ef18a7194437fc3d53ed9/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=ULFxMWH3aFoG9LHXNCz1Qe7BaDlxbYJiqbCWhxywe8tGdj7OtePZQ3ywexB3k6ldQxglrc4h1f8OVQyZN0Rbv+kSmQh/RRjdOYfbNcPS2FU="
+2025-08-09T06:47:01 player: played "http://m801.music.126.net/20250809070828/76c9b4d3b81376a85ac8f8c5d2f1f448/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=VtD4koG83bCXRxqu+niVPfBcnlWLFv2cyPqRofo0WReD/6aUEKtz+/nijSnWnn3YoISAAIvu0YlQvdsIn4uTFivG/LUE5pSkAoDCHUbzzWA="
+2025-08-09T06:50:35 player: played "http://m801.music.126.net/20250809071202/82aa09400de4fa6cce4e6d87ba0c9fa0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=TJsmHP/sbDSAor7oDAwI4JKKQyqLft4nfhJv1jwEUHsSk2fyFgL6soSJU8MkOk2lD4d/Gip2cOlqSdT8Pf2OIZc53BCGMY+tPs92V/Z5eSo="
+2025-08-09T06:54:09 player: played "http://m701.music.126.net/20250809071536/ea62a5db267dac5ca04a9b29dc4579a5/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=Ezj0P98ph03ojEhvCOe6sz4UBS/lkmYUtt/RFaO/dvBxQ1ROByTz/+b3dHlV35hA/sVtjwdv1Q1ox8kbDoi9JwuZs+y4kX1AmImZwDIpMDI="
+2025-08-09T06:57:43 player: played "http://m801.music.126.net/20250809071910/f2003da477c838402ade6687ec24ad55/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=DWTMDxJY9blzfGXHPgSnCFYQW35WQ/5B9Qs6rr9HKaS44yn9G1G2emD7E28bQXzHzTJTxmytnoi6ID6Jln/+cJz0j0mGMGiv+9h8ZtrRuWw="
+2025-08-09T07:01:17 player: played "http://m801.music.126.net/20250809072244/f9ec5d4579b0662698589a914d5d9d47/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=6SPAJEuXOhEUL3ZNhuKQYKy6ehj8iQIYOw/sE9b4bD5fc6dtRfcBhcI8Y14H+wzgywCzpQ+WK5bjobUeC6qV6pwhVpzLpPTvaQx/v2xyQTo="
+2025-08-09T07:04:52 player: played "http://m801.music.126.net/20250809072618/9bf5775e929d9c1e28fb7fd9864cc8ad/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=BE/bUV+B1Ltbx6svRhxx4PUFmU25fkKWIU1yPPjAbaZbiq/07BDLrI87r7+yhbmU5Xzy+wOGCUfjsVUvU+57P/jBwk0flhs6iKz9HQ4ArHU="
+2025-08-09T07:08:26 player: played "http://m701.music.126.net/20250809072952/9aa16a27c19ede0c3f1078362df8964e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=3QyTbxruq6vacw6osJRr2l7pdGKrSwHAFDc3csASbOWiKMjxmq2FZWftqEipOzWfjNOt1G6+t4jDkCnnFoLp8YUWGKOwVqB28D9EN4d3HKc="
+2025-08-09T07:12:00 player: played "http://m801.music.126.net/20250809073326/f1a70d53f5634aa1acac3e848ee0d93a/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=bQnfcM4jbj3g0JLIchpZF+1hZWFD+4dF84RqxoqdMWLZPGDO2XZPDqIKYkUgUXmlAVT8UR/mitRAyvhJhLEBDlbyXTY3UoUEsikyWt8Kffw="
+2025-08-09T07:15:34 player: played "http://m701.music.126.net/20250809073700/c575c909735b16cc0bd68f646c778563/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=BWgb/wEWIcqKH1/4jBDa9/9hLA/pSt29fult8UxnQZnASc8HdALpfEJ7c4brVZfUpws0LoBFTaPtpzqlOL9lTWsna5N2/6fjFB1YKt9U8cg="
+2025-08-09T07:19:08 player: played "http://m701.music.126.net/20250809074034/e54aaa9a6cdeafeef50abb4125f5dc2d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=sdoon5JcxuM36gwT/Rng5YF0hFD0T5cPzT+7hEg72lYbofDs7vBSRelanVeJcWLgTpfsgeCnSIBmeqX/rdQndAS5o3lWgvKU1yjeeP5Gp8A="
+2025-08-09T07:22:42 player: played "http://m801.music.126.net/20250809074408/716806da479320416fcf694995f5134c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=JTY6KvhbEJ/R6wG7xb1QlEDurGj48K1YyejlD6qTPo5b7hVIbrTHuhbqYdQ/d9BUihS6mlnJaU+9JwtgPPfQCXrgUPup+e83+o2d6xMIMo4="
+2025-08-09T07:26:16 player: played "http://m701.music.126.net/20250809074742/498f4f56881ea26d0a31a610fe30fb4e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=pGQaDsolNe5JvJApHXMmbhvMgK/CcYKAHnq2kd0DM4WUqdQpWTAaeYxUYW1qARkQGijQY+Q3tbKu8QE+RH4hP9qkE576BWNoReL2OXE0TfE="
+2025-08-09T07:29:50 player: played "http://m801.music.126.net/20250809075116/3585c0e5af91a81813b529d6a06d4717/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=3N1dIGq7i2L5uzqYgkuY/rr3srL7YGmWkSrhqegD5iI0D34c/vsNCBnER3CVxvClzu2MuHNcFILS0Wy888CQ9Z4Ob8uPQLliiWS6el+GK2k="
+2025-08-09T07:33:24 player: played "http://m701.music.126.net/20250809075450/97d01d2026c20eafba6299f96c05b3bd/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=YeroBSbnNKemGB7pE5a4pLb2hhSbfq0JhZGqz5xySDgcj4AHNqz8pmBkxz79yIxUAU6+65VzrgVJDyMZXd0hfvzcd1GdQD5DYMy5StbAw+w="
+2025-08-09T07:36:58 player: played "http://m701.music.126.net/20250809075824/c3023bf2b17a8c0c4623dee48761ff2e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=8anOzHB3s13yq3BSBKZ+20T8GKyt07N3M41+mvl6WeU1h+BjA54z6drdhrfwC7b+5MmcjxUy+8jb+rRWNQfsnGXiUe11/3iBpn60zyxTLH8="
+2025-08-09T07:40:32 player: played "http://m701.music.126.net/20250809080158/d73f69d1d233c177cff5cbf0f34bb9d9/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=xvwuHT9ENEgbCaludr/xcjvzG8LJjUZj7YCovAXFGpHsnO9B3YHC1OzpUdRUf9bIi6htRVHhzqtDmOrvFOE1CNW2b83W5Eyl3uVtu9cxI/g="
+2025-08-09T07:44:06 player: played "http://m701.music.126.net/20250809080532/1edb74ef58c9bdd0a757ca54103b4fbb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=Q05/+nxJoKNBh69ySq5ZxrKiVd/fTDNdRZ3MdjkUiSwsv3muKyOsi95l2ppGC8d4qJnQvYG117EIIOu5RhHpNRyU/8n1GE9gDZxqxrdCl10="
+2025-08-09T07:47:40 player: played "http://m701.music.126.net/20250809080906/98045dcc17e68aa2ab3a9f0e1c89cd5f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=0KzgA2nRhDKrbzcMsG/VA+iKDJC5loVhrU/W3rpuzx1fXCaoYzx9LLS0wtLd4evkVo+0QmCKrpREjClF/uwankBkbVep5/20tUC+u1amSOA="
+2025-08-11T23:37:14 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-11T23:37:14 config: option "device" on line 17 was not recognized
+2025-08-11T23:37:14 player: played "http://m701.music.126.net/20250809081240/fdcfa1f407caf3b001dc8edb847070f7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=WROjHnGDZhrAjuxZVGtvcbgc6zQUTJeBpsege822968pzRX8K78YQFmFaJ61GXGWmrFePB31+13oudl88wS58bUzaAcGlhm1YVL/eNV7V3s="
+2025-08-11T23:50:22 player: played "http://m701.music.126.net/20250812001521/1b99a4fbbe4eef6499e3bb083b107f8f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=jNtdyX2jMLDRIpySqg/sR9rVVnccQGnByKf7NN0zm2nAJ5SCeqRandHEaApJ34sX4uep//S5FxCxVKq4OzNZD3rr8riBBpCtjWsC/N3cmyY="
+2025-08-11T23:52:06 player: played "http://m801.music.126.net/20250812001522/982487fbd6589782c568ee39738282df/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=mERrO688p7kYmCHcw+oyZ4VJrFLzr7BOELLTx43QA4r7VVHzYegkbPJotzbwAVbkmxMn/g+EDAw9woVYidG9yNpXwPw/vEufrR48TUuoypQ="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-11T23:52:06 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-11T23:55:02 player: played "http://er.sycdn.kuwo.cn/fd6e55a70357b4238c6aee1369d0efcc/689a11a6/resource/30106/trackmedia/M800004byR8i3vzNcP.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-11T23:55:02 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-11T23:55:24 player: played "http://nf.sycdn.kuwo.cn/301b9939bc86c6d72a80cb5e89023010/689a1256/resource/n1/31/65/2676283516.mp3?bitrate"
+2025-08-11T23:55:26 player: played "http://m7.music.126.net/20250812002024/38c82d81647f2b74f8d76c8922afba74/ymusic/f63b/9c41/b363/025c7acd867a9d145778f1e68ac4a716.mp3?vuutv=ptMsM2XmEebk6n9pMqZhHq4IqjXNKpNCKb671SX6dXjc3nyznOpRqcF3P/RSfxhjk6X5nrSg7GXGi4OjYOV+Kb+yXXoELFfo35RTObzzBkw="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-11T23:55:26 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-11T23:59:35 player: played "http://nf.sycdn.kuwo.cn/301b9939bc86c6d72a80cb5e89023010/689a1256/resource/n1/31/65/2676283516.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-11T23:59:35 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T00:00:43 player: played "http://er.sycdn.kuwo.cn/fd6e55a70357b4238c6aee1369d0efcc/689a11a6/resource/30106/trackmedia/M800004byR8i3vzNcP.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-12T00:00:43 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T00:01:12 player: played "http://nf.sycdn.kuwo.cn/301b9939bc86c6d72a80cb5e89023010/689a1256/resource/n1/31/65/2676283516.mp3?bitrate"
+2025-08-12T00:01:58 player: played "http://m801.music.126.net/20250812002612/1da0c0a34c21ad026bf79d587b2ef5c1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=YZ0UhrT/cCg1OmrL+xqZdJAjWzn/Zm2vVNyQ7zP+D+xrli6SwICy3PwvPneOxrDKtuYcScKQmU1kvPyeQjvaS8+BUXCSbk386s65wv2hsCE="
+2025-08-12T00:02:06 player: played "http://m801.music.126.net/20250812002658/fb826fbd8bb26120e9faff26988f7a53/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60854168020/cb57/cae0/e787/4a2cb122412854e669d06384e6130f5b.mp3?vuutv=IKB/qMIburb/I3CqifqenTTCO28DyuYQtRJ9gn5UJ4To8cGUzfxtA4R7vaTqSLQYbFJl8GYe/RzLV2R7YCK9BShGAZIp5YQgtcU+jow3kbM="
+2025-08-12T00:05:56 player: played "http://m801.music.126.net/20250812002706/3a5915b3f2572f4bf88a764f8f6ca0fb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35873693120/291e/1623/dbeb/490016c9bbe131914813dbb048ff9ace.mp3?vuutv=Fi5N8K+ED1LfOW0IR4jf6ZHVUTNWzTAeGL0Wcz6rTHChmLDhm5FQrq1rWxiYR3CdsEBkDAPqRsvLH9N+ObKSpYN+EVkOCxkr5z4v4I+cV00="
+2025-08-12T00:09:47 player: played "http://m701.music.126.net/20250812003056/265c94066020a232f75a2a93de7fad16/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35873693120/291e/1623/dbeb/490016c9bbe131914813dbb048ff9ace.mp3?vuutv=BvpYK4bSJ3cCVCyAA6nNdKRwXLaSGv18GuoDCMkE5r56vzvOSs7Pey+OG1xwygCzmm8vwjhbVpRwT4ymnTEr0uJM/Ig7KKclB010kUfBMBo="
+2025-08-12T00:13:38 player: played "http://m801.music.126.net/20250812003447/e8af7f23ea41f16833b9443f31507609/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35873693120/291e/1623/dbeb/490016c9bbe131914813dbb048ff9ace.mp3?vuutv=sv+YS/VkqA2LMFvidbt8Wxn/0+19kAuinEStWWTuG55l9SYpWI90rTIt1eilTGSNo78KYPFR2EWV1cd3EXnrAinihFcprQBT4Qb91TmSTy8="
+2025-08-12T00:14:47 player: played "http://m701.music.126.net/20250812003838/f46e09e2d814c6a9731689d8d96726a4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35873693120/291e/1623/dbeb/490016c9bbe131914813dbb048ff9ace.mp3?vuutv=NEXmjYafVn784O1iRVpvk7ZJsgCsHPX72PTImuLzLxfZ16zGyc1qU1GnawppgCBhkzyPSKu+7dGB5PXGqIyUzeydWf2RidrdF8Pu7w1uO9s="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-12T00:14:47 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T00:14:49 player: played "http://lv.sycdn.kuwo.cn/cd0907d66c2059f3c377ea00a8a1478c/689a16f7/resource/30106/trackmedia/M800001oLvI63JFCFs.mp3?bitrate"
+2025-08-12T00:14:52 player: played "http://m801.music.126.net/20250812003949/c14ac026fa276850ec779d77a5154d0b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35936917511/e8fe/808e/2508/03c495d9c53a55ea131080fc876ab390.mp3?vuutv=4+mqyuvifE1P2VwaXheKDyjApcdlhc3iAIX00SCbdHxQI4pjogoB1vgrX0PjLJdJEkb+i72kQLbjpjDYVg9euTrTHUd+nYewaSGMIcQahSA="
+2025-08-12T00:16:10 player: played "http://m801.music.126.net/20250812003952/5d8e7859a6aa944dfe9aba1b48fecec2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36288583066/a139/8443/3e68/b0184cc844062927c426aa0cab00fb85.mp3?vuutv=Sl1B9PG636kjU2EGA8J8Dc9XJapz2wkgW6m7VfeLamZ8xrEfs2ZjmNge6o5VUsl9obOftQv5ECkmG2i+jljW56Ru0dMEcGvoZTsloogocIE="
+2025-08-12T00:16:12 player: played "http://m701.music.126.net/20250812004110/e0144112ba2d7cb746ba0cacbb674dea/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35873693120/291e/1623/dbeb/490016c9bbe131914813dbb048ff9ace.mp3?vuutv=GHis9651wujCJgmo1LwYrr07SYFmlYuhnCpCNhaR2HMx7Xxu5DGzvsDWeNSSqE5oGtRJux9xmN/HFFBhIy3gPa2vtuzvTgx4LeQKbTEoEP8="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-12T00:16:12 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T00:18:33 player: played "http://er.sycdn.kuwo.cn/15729bf20f8596779540c346983a153e/689a174c/resource/30106/trackmedia/M500000wjMEM3apCea.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-12T00:18:33 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T00:20:54 player: played "http://er.sycdn.kuwo.cn/15729bf20f8596779540c346983a153e/689a174c/resource/30106/trackmedia/M500000wjMEM3apCea.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-12T00:20:54 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T00:22:32 player: played "http://er.sycdn.kuwo.cn/15729bf20f8596779540c346983a153e/689a174c/resource/30106/trackmedia/M500000wjMEM3apCea.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-12T00:22:32 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T00:22:35 player: played "http://lv.sycdn.kuwo.cn/8d80585dac56108982b99f50887200f2/689a18c8/resource/30106/trackmedia/M500004LAz4X4O9vm6.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-12T00:22:35 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T00:25:15 player: played "http://lv.sycdn.kuwo.cn/cd0907d66c2059f3c377ea00a8a1478c/689a16f7/resource/30106/trackmedia/M800001oLvI63JFCFs.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-12T00:25:16 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T00:25:18 player: played "http://lv.sycdn.kuwo.cn/b2a7392c253b5d64f08c8c960591a472/689a196b/resource/30106/trackmedia/M800001n9MaO1tqQjX.mp3?bitrate"
+2025-08-12T00:25:34 output: Failed to play on "pipewire-pulse" (pipewire): connection error
+2025-08-12T16:16:12 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-12T16:16:12 config: option "device" on line 17 was not recognized
+2025-08-12T16:16:12 player: played "http://lv.sycdn.kuwo.cn/cd0907d66c2059f3c377ea00a8a1478c/689a16f7/resource/30106/trackmedia/M800001oLvI63JFCFs.mp3?bitrate"
+2025-08-12T16:16:36 player: played "http://m701.music.126.net/20250812164118/0d96643f729157fb90207c5d85cf7a8b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=kgNjf0LhXjyN2DKpBCMlcXjF7tTYXwe6RztgLTSeECojWUDh+kdvwB5HzcHXHP0hwCAlrJCL7vjCc5Wjq+hkjCYSbRXbdwY3vJpOAQ0GOq8="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-12T16:16:36 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-12T16:16:47 player: played "http://er.sycdn.kuwo.cn/275d0e3a25ef20207d16bdfa504d991b/689af864/resource/30106/trackmedia/M500002HGZMQ1UOqrb.mp3?bitrate"
+2025-08-13T16:18:01 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-13T16:18:01 config: option "device" on line 17 was not recognized
+2025-08-13T16:18:43 player: played "http://m801.music.126.net/20250813164307/0c11a8d247cc4fadb6e2291cc6a0ffa6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=K0D3ceoRnYmi2bu7uNnhWtpCH856KGXAPuBOfcsSrJfvjZPHr78p28hxpTYyhPacyf6pZFWi3f5cGAuToYWDjkJOhmnQN4UBWpOtWvTjsPo="
+2025-08-13T16:18:47 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-13T16:18:47 config: option "device" on line 17 was not recognized
+2025-08-15T11:52:45 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-15T11:52:45 config: option "device" on line 17 was not recognized
+2025-08-15T11:54:58 player: played "http://m801.music.126.net/20250815121750/c6ad3a9e376eb471e57548f4a31a33a3/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=H9LH2fWiZlyytEUwI7K4YnibHDwuuvHiarNIpoPpt0Piw7P0ZgE1Gfe83AG+FuE4xQXMmHMW6x7FcMNtVjhDCw4JiBcYrXjNeWE93IGqwpc="
+2025-08-15T11:54:59 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-15T11:54:59 config: option "device" on line 17 was not recognized
+2025-08-15T11:54:59 player: played "http://m801.music.126.net/20250815121750/c6ad3a9e376eb471e57548f4a31a33a3/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=H9LH2fWiZlyytEUwI7K4YnibHDwuuvHiarNIpoPpt0Piw7P0ZgE1Gfe83AG+FuE4xQXMmHMW6x7FcMNtVjhDCw4JiBcYrXjNeWE93IGqwpc="
+2025-08-19T17:35:14 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-19T17:35:14 config: option "device" on line 17 was not recognized
+2025-08-19T17:35:42 player: played "http://m701.music.126.net/20250819180023/fe2c4d6327c73d06c51b5e36cf781780/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=L3UKeX+qYzzIMSuKUmGz+IgOwWIH+AmoA0r3Wx0iZRsgShmwN1fY/HR9IvLjTilz4EReOTSSV7zylVUyhzIFfiSJGXw8UBr1FYCYtsOgLWo="
+2025-08-19T17:54:10 player: played "http://m701.music.126.net/20250819180042/46634be2a235803e5583f78b9537c965/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=i7RvtK7Ebg77hcBrSZ5G4vaPQVdHdeBwUIWhtdmRw0gIhf+GnBJKiuHnG+Kc6YZm0pWozFBWonUnDxcSCjPgYTFz6mgRO4ZsxxbeIhh3oJQ="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-19T17:54:10 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-19T17:54:20 player: played "http://lx.sycdn.kuwo.cn/7155f9c534f59fbc50caa73cf579de1c/68a449c2/resource/n2/73/84/3759149332.mp3?bitrate"
+2025-08-19T17:56:12 player: played "http://m801.music.126.net/20250819181920/1f0e9defb7b550528eeb41b55220f7e3/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=Z0N1efSqoysmWFJrU6pamTUbpyE5YeL5RoNql/c2VIMqNzbGxIZaMEIaNzl1iQc7zkJLcGbWK4DEr5eJFW8ZAoPhFK8+wUIsEWDDWy+OAIE="
+2025-08-19T17:58:14 player: played "http://m801.music.126.net/20250819182112/b93c777624ea35ceb8d614441878b0fc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=eCncst8AsrLYVzesnoPF2jL5sxGW17IO5vBbmntmNV7mifmXTMZ6pfLF1j8TIN8+Kedz5inVdFo2W5eRpPna4K08SMjIfM4DQJCSLsgWML0="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-19T17:58:14 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-19T17:58:16 player: played "http://lx.sycdn.kuwo.cn/7155f9c534f59fbc50caa73cf579de1c/68a449c2/resource/n2/73/84/3759149332.mp3?bitrate"
+2025-08-19T17:58:32 player: played "http://m801.music.126.net/20250819182316/55dc2c5f9dc9e3714fc66a634d31c5f6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=YrXQXaB83ZJWQLwUCAktPKIZy1AaZQn+UMThlXeaMsZKyrtz5+Dzh4oGgFI/4UiS0JyamfLfDdVgY9LpoVjdOC08+XVXsLnIUINd4UA9erg="
+2025-08-19T17:58:33 player: played "http://m801.music.126.net/20250819182332/6aa83c8cc665fd8ce915cee798e5902e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36046776225/f0ee/b61a/10da/05973a35f81cee39031d1c63383ae7e1.mp3?vuutv=gWeAgcu76MrzfJRmqEmYFajyqF0UW/pWaMgu6rJP6eGNoVUnd29k48ox52DbdW/1AYd01C4oB4b7flVMSlr9fn51uaC86f4jv5YdGjnkoNw="
+2025-08-19T18:01:47 player: played "http://m701.music.126.net/20250819182333/2cb93d9cd648fb6e6976923dae2cee0f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59423931336/a134/b614/e575/87b52e09b3b93ecfde57a7cfdd2bd007.mp3?vuutv=R2uEfOwgdbtUptaWIYkg92FwY2zgRNv4EtsSsG3tUUz9ErHRIrsW5sNr8hX+QEpsjOLXsctXVtbuW0ryugFOlHljfKkYiVp3KKlPRpPY/mw="
+2025-08-19T18:01:49 player: played "http://m801.music.126.net/20250819182647/78271d48e418845d10faceddd7670eb8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59854160839/ad42/03ea/ebcc/6f10aa05341ea27d41a62743ae9fbef4.mp3?vuutv=+PQlRfe9kvIJSeKufYVBOo2W76/swECe4KHBj2EUZSGapu1KHWC90YD4q6XdMbKJk3pbFLynzb2H+U34ky1iRxb9RyOLyc4WAMouJ1FwBXw="
+2025-08-19T18:07:18 player: played "http://m801.music.126.net/20250819182649/3346575a603dc5522273e36d77087706/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096426316/b03a/b21b/c8e4/f70ef37483b26affaded2065180e9e91.mp3?vuutv=Q1CKK/qYAFeJCI7wl+1IYy/V9PMsYRmgNRWg+k/Bro6MY13nbmSkRpz9as0o+XxPK0FwJsNO76dEBapi3yziNZE3eadfkvJf/c65uoKQ2jE="
+2025-08-19T18:11:04 player: played "http://m801.music.126.net/20250819183219/cab5f03e3333f4ab48500fb76a762519/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096426316/b03a/b21b/c8e4/f70ef37483b26affaded2065180e9e91.mp3?vuutv=sT1HUCcNkbRsPV7T5UPhtV3EMIRyRHN7uqt9SPR5mc999+nJVvAc/OhavWfS1RaY6YYXrT6AuiqNy46VOPX2Qvnu0u9paefUuFCnjax6REc="
+2025-08-19T18:15:43 player: played "http://m701.music.126.net/20250819183604/0b7e70dc5467c23a6228f83233f990fb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=c+MQGiakLA2d9xZvL57htwdtiTsRtW5eup6IOgmhX3lIPzpRlTAoRq2NootQFzb61SeU5k5ftyiskksD1NWfkn0SdPmkv3pJW/yXzJGoPRE="
+2025-08-19T18:19:42 player: played "http://m801.music.126.net/20250819184044/af78c85fd13323625386b95422d8407f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=LRXrXpN5DPnscIxN5FvjdtqN9+opLRmpwE1Qgq5pmkGqj/EgJjArCFugUbOtg+u/2RZv14H+o6cZodjDFsFjK6tRbnRyqO6JhwHlG84H9AE="
+2025-08-19T18:23:41 player: played "http://m701.music.126.net/20250819184442/b5f8c88fa49321ef120fb2912601a438/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=4Sxlq7/KiXiTKkBsrXF+2nBbIjsqcrTIRljSuvQC6IzPYUTssnNRI2heR2fBF7Ek4uvLkianNz9PO9Q0UD5lO4k893e2azz3TJkI9K+5R4c="
+2025-08-19T18:26:09 player: played "http://m801.music.126.net/20250819184841/a251b627f71706b7ff8a56b8446fef4f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60255105445/a324/ef35/d413/14eb377d8dbcee292caa70e1207d4308.mp3?vuutv=h9LXzhfc/C4Wz05jY5NUxMSH7CGBF4O5I+oskJFr5kjBxSiabT/3SugNIzCn1LyQLHRDibci82/0LQyrwUA2w2aZvNAxY2g5J04IhCHSvXY="
+2025-08-19T18:27:05 player: played "http://m801.music.126.net/20250819185109/511cf9505969879b7678ba250beb1f97/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=e0Ek+65zmcmAbWWBDEONZcgQ9UfE3fyoKoS3et2cYs9z69uD1Ts+nPjHKNzofe38X1dPwqEKIs6RkbFdBHxkMJAtQqG3dPTYEcnaody/IP4="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-19T18:27:05 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-19T18:27:06 player: played "http://lx.sycdn.kuwo.cn/7155f9c534f59fbc50caa73cf579de1c/68a449c2/resource/n2/73/84/3759149332.mp3?bitrate"
+2025-08-19T18:27:15 player: played "http://m7.music.126.net/20250819185206/2ddb2245cab0c2b25d7c82136bc157a4/ymusic/bd5e/6c74/5f3b/c7ff5ec94feb1ff5259c1d896f941d8e.mp3?vuutv=MjklE4RNV7sCDpAGWyMcQV8KJfxOt7m/iALoc/K01/xJ4FwFikFsk1hwoGhLMsIYTosafPCR+ko+coN4BUDlgpYSkVfiefXMzx3QDQL80Dk="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-08-19T18:27:15 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-08-19T18:27:16 player: played "http://lx.sycdn.kuwo.cn/1ca892580c5a6a7fc7e4bb5cd4b89f6b/68a45183/resource/n2/73/84/3759149332.mp3?bitrate"
+2025-08-19T18:32:20 player: played "http://m701.music.126.net/20250819185216/d83977ac7091dd04111716d1fed1d02b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=YxLlobJakcUz41qB69v5gbONwDGP5sr6MoU8B0Kj04vZwltj56IawiVsY8j7fmhjVf4DNJ8ioRkSOiBNw1xaMYfJetmWcfrw3Ia7ELZS9XI="
+2025-08-19T18:37:23 player: played "http://m701.music.126.net/20250819185720/e16b8e69f8b72e1e99c3a59368fb6b3c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=1A7FBL3CBZmY+5STYvpVb65uB6EHo1Mbb/oVcdjATSvng0HxWNMyOmmdF2X5+cH2wc3r/lN0cpDzgiR6WRiM3euRzTiviss2A6XeWiv2R1A="
+2025-08-19T18:42:26 player: played "http://m801.music.126.net/20250819190223/2d735fd295a22c427585d1349c00a57c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=/3qd1J/WjesFDZGRIJXTWo4/pm2Yor+U/0aclz9Dw9NJMm2CVXvalu2PgFxpS2L5bPhD3fueE+cacG9mvmEEPq06Y1AUp9luhNladVsZxoE="
+2025-08-19T18:47:29 player: played "http://m801.music.126.net/20250819190726/76d140acd930524f81dd39b97f4acfc1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=ye39c1Yz6DSgKbioPgFJ/rgOSOTZ8SQ+eff7Vpw92T47a/NZGs14o4uSZFbx0LjCQLS61KeHhlEPillhQEn+RSr/j5JsmQAHplxSQ5UvCc4="
+2025-08-19T18:52:33 player: played "http://m801.music.126.net/20250819191230/fc2f448d81ef38d04595163781654d47/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=euOOBo/pRq4T5QfC6rozjEmOeYvgSO0D7cycglz54fR4SnTBK1OJB79k+RxS3wqa7iJABmjQ68GOkKmcKTLT/MoMW80SuoGcn2ZJzT5NEdo="
+2025-08-19T18:57:36 player: played "http://m701.music.126.net/20250819191733/5ebb8db2b5bdd08514d581b204f977b7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=y+XT0YkDXCICiTa054lP3KXNvt60d0GfQGA1hy2BtQ8ZYrexEGmxLMbrzJagjOSN1xkYe4QexV1jQSGTa63VFuoR3yHhjee8pnt9IHGkt7A="
+2025-08-19T19:02:39 player: played "http://m801.music.126.net/20250819192236/d88c41e5323e32cf61fc9a356cefb435/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=37BjoTmGBtBCgYuv32ySedg5UJRc1bJapVHDMMUnQIKkdSgB7J1clCZne7jiNp0Ln8bNjE4sNiYv5uInzMVt4uIKV6SEhbBu8/LRfqryFwk="
+2025-08-19T19:07:42 player: played "http://m701.music.126.net/20250819192739/cb14c7c8f5621c961299e84cc2dc0f7c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=24mAgkK5sqMzQQjj9pV8PVLF4UWvSHvmUfg8vaN6UYiywjp8RBIgPz02oJQ1xRDgy6rohWejqL/Yd7xHeaklHXRViOFAj6n1mJboa+UUthM="
+2025-08-19T19:12:45 player: played "http://m701.music.126.net/20250819193242/3dbbf9421dd1a71a45721aac1ef89e36/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=0hS1SjXd4FXz37Qt5bDpfOUguEUTwOMDHOyWzybM9HsCZfOYVQIIwaK/7MqqvnXc3YAzSJY9/aniV+7IrPHzUPEqG4xywGVAbWGiPYjnRyo="
+2025-08-19T19:22:03 player: played "http://m801.music.126.net/20250819193746/bbdab66db0233f3455e3c3c524a426c8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=H7Gl+5EFTCNUGbPg9f7CehtHLdiXlP32jGMimZcp/3ohvuG5K1/LUtAiidNIGHx+ncusxRfl03BwH9VtKE+ZNXjG1wKMy9OXOCddKbiK7ek="
+2025-08-19T19:22:14 player: played "http://m701.music.126.net/20250819194703/2e709b28b0d53547a02add2c41fb2d4e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/61161390023/6021/0465/9043/32d4af5a4f0f841c50703f0270f2d86c.mp3?vuutv=OsTyLKQwLE6fFD4JJC+0Rmqy1i946+TqJqujye1PJsJIO1YA7c4VyfwcR6VMMS9V7Sl02hGMFfK2ZhlzeoNXWcgk30hp5lTekvDnQHiS+dE="
+2025-08-19T19:22:16 player: played "http://m801.music.126.net/20250819194714/6075e1c40293cdfa900be3c99621d520/jdymusic/obj/w5zDlMODwrDDiGjCn8Ky/1789995984/984d/dfed/052e/5d41ba23cb91ecd0e813b4ec79300a2a.mp3?vuutv=jX4ymIH+yA4gQU8ivNGmYk2QrCGW1VHl8O/9H6mxBDqoR2siKRHM5s0Mbr7hcOydcfzOl8o169FGcSOEPsO11qtrqlijIbwVHlcsijsKo/M="
+2025-08-19T19:22:17 player: played "http://m801.music.126.net/20250819194716/e141e2095cb02cd2e1d7f95fc46dae26/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=8WJfmIYh9b4pJPtVhly/DxSWyuj4teWqpecUvLYxkkv5fi8v7ZCGk9qiTmKwmtvoQcyF5SanvYNHhjFVqfGuJ4S+ovNujQ1lwrocrObfe5M="
+2025-08-19T19:22:31 player: played "http://m701.music.126.net/20250819194717/9cd261f1e424d3c27924a052c1900321/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60508642678/ec1c/7a70/4d21/643010e399e575c5f6868d457f986e74.mp3?vuutv=8m1DW575wT91UjACX5e6JweGd6PZQkEurNhd+O8nLwvTxREKWkrmylRDb4hH6LfyK4ya6w9okHSSbz+9li0bIXDMleqNOe6AakVEEOatzSQ="
+2025-08-19T19:22:50 player: played "http://m701.music.126.net/20250819194731/721652787c527ffda5ca52a17330bd0d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984653180/54ed/421e/d1ae/1479155de51c23d2830d94a5c120c196.mp3?vuutv=IBzapSmjXWme5StKTq9qqf8ldBOChA7V5i7acaD0P8kPzhT1bt6XXiwC5zpQas4SNsJykyDn3gkZLKX6fB2VZeOI3WH2tkYf3IQpbB1GhaE="
+2025-08-19T19:25:46 player: played "http://m701.music.126.net/20250819194750/53c089b40fa3bb22385fcdfc7571f137/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/61161390023/6021/0465/9043/32d4af5a4f0f841c50703f0270f2d86c.mp3?vuutv=I4M2lEIjJmWUrXIGEkH+pUHgC5a+MP7fatwEWrGUaAQiVIIYnUMSCN45wCJJqhZYimTlo7034ddj4M+KFBPFfIkMMYquWGzPih/9vls5FBc="
+2025-08-19T19:27:03 player: played "http://m801.music.126.net/20250819195046/a564e22dcec73e9b485297de786e4012/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/61006544130/5fa7/4f19/6321/329929567b2a64b599fae52ed6292181.mp3?vuutv=oPcsRngOWzlhMkcInYGiYIrglWd5iLwBQgOvuRO2aofxb/M4ZCo+RFH886H4Ie4oylqvxSMBHXPR6O4z8A69C03pEWGq5PnzfGZkwHFWWFI="
+2025-08-19T19:27:42 player: played "http://m801.music.126.net/20250819195203/7b5091e68bd84b0e6490b56bf89638f7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=+5m3Sf7uqk+9f2hykdcfAbomgPjK96kkA838BQ5WDqVIVTKYUiszp9tUVBO2eGOxDbQuNO4fmYnrTQhVqP7Usgc38RKcRxn3JSdgqv7RpSU="
+2025-08-19T19:31:48 player: played "http://m701.music.126.net/20250819195242/7f2a7c45cdc512062c33cfd3e09a04c6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=VHkgDz4BpxHOWERpkHqoUbVJpBP5jMVPSoBYjSU9G7Cad8bxNZjy24d/Cz/aKgRTLzCBGU+NtJrmwCGf21yPDk4hBhTct5pUePZvNvlQZCg="
+2025-08-20T17:46:36 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-20T17:46:36 config: option "device" on line 17 was not recognized
+2025-08-20T17:46:36 exception: Failed to decode "http://m801.music.126.net/20250819195648/8b00d955d5734f574edbaf57a401e6a2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=XwJXqM4+FuPH2IfeXLJxIQ9bub/UV5+QfDHFFnTD+u+fx44R0Xzk4yDK1oF2gk15Yw3QZt4+99oWzyMREQo3zXc9Za5VejtG8GcTWxFkLuQ="; got HTTP status 403
+2025-08-20T17:46:36 player: played "http://m801.music.126.net/20250819195648/8b00d955d5734f574edbaf57a401e6a2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=XwJXqM4+FuPH2IfeXLJxIQ9bub/UV5+QfDHFFnTD+u+fx44R0Xzk4yDK1oF2gk15Yw3QZt4+99oWzyMREQo3zXc9Za5VejtG8GcTWxFkLuQ="
+2025-08-20T17:51:15 player: played "http://m801.music.126.net/20250820181253/3d7f23e08ec0a7e10b3f85bec4ee69d8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=zz5Uj8/OnyxkQ4Bp+OxjbhusDk/SmF02OlHIJJc1EZhqrb6LfnR8SwpncJYjVEJpN0KtaRMZWCentR7UMpTiQhCksugzlyLbnS3BAwZR3ek="
+2025-08-20T17:54:38 player: played "http://m801.music.126.net/20250820181616/703c23b6d3894c61673a561a4891ec45/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=lRFebdZ74FINc7+sOejKcktf2K9Lad83unzGw3vZPPeyK+uQZN4Cn38JhUvBAajfe87d8doa3peI+K8qznDFFwkvHuto6sOBayw1a5X7SYs="
+2025-08-20T17:58:00 player: played "http://m801.music.126.net/20250820181938/c3ba76d4a487d20654c3431e82e1eaf0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=Ikm5mu4LY/iiiB6GuasdLL2XwhArGa5LVpAHrEH0TN4JamO9XSxcelC2g2hTQDk0FSfiI0D6zyftQFQNIcu0gPYt1wEe8uDuvTG+n0VmYCA="
+2025-08-20T18:01:23 player: played "http://m801.music.126.net/20250820182301/564a65c50257a05289f6d7677c6793be/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=hH4P41sWA0mbIT/MZWp3kkeE2MlMteOfGI1XnHMq444xj7kq0NTq7VbIi136QL1jTRkUBHy1QcvQC59XsE8koVUdRmU6EjYp5R4Iw7PvamU="
+2025-08-22T20:34:20 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-22T20:34:20 config: option "device" on line 17 was not recognized
+2025-08-22T20:34:20 player: played "http://m801.music.126.net/20250820182624/1185a7137d364c400a022cf2d9e59454/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=TVzQnbzqbGzgeN+uTTPWtRaraoH7UlDdzi6PcuITc4XBiPon5KN3vNetRUYWL5ePP0/wMIPThrMekg3XPjoub6DCzYwQDgQz70wp/gwIee4="
+2025-08-22T20:38:09 player: played "http://m801.music.126.net/20250822205947/3823f4e672d8f25a27a904e36784c0bb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=B5F27e73WgFufUHe5ap3lDLlOr4JJJzChzd6wDI4cXPd71e9j7MweHy4MqDCDnLdDy0QDGrhEDCp6g/vnL4iDVgqp5VM5Ui4lPGRiy10k7E="
+2025-08-22T20:38:19 player: played "http://m801.music.126.net/20250822210309/de8844454ca9a5eec2df743bd6208411/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=Md28CUpcZ2QQHlGtdH4sL04v/xSEasr5sbyvDW6Ene4/jtFCsGWVz9Z9gjlPjJUGrsdmNoHtskTVkhXCfO9cJyjvkXtY4S2pD6SIA0Gf938="
+2025-08-22T20:38:21 player: played "http://m801.music.126.net/20250822210319/109823f836ebb0e81e2c2c8a6544cdf2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=fjl1xV9LWN8itD+I8799xz3RyyT7j0uCFeFDoxPU2DQSALDZYOOr7+79oAqqEt+L+D3hnv5YDfyr3hLUUWQ/lfNsO3PfJXyrxyFaw+e9Xak="
+2025-08-22T20:39:29 player: played "http://m801.music.126.net/20250822210321/ebee9b79e31d39aecb7debf0ab36f335/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=WzKLD1+/V9FUKEFmcmND/zRtcnW8yB3fet4MZqeMccN0zrFPtghBh6DI+pGMbobsz3OKrOiYZr7MmSle90bjZ/7xoGVzptVkU5bvkbL1Kfg="
+2025-08-22T20:40:08 player: played "http://m801.music.126.net/20250822210429/be9927067d6c8271a85b85ae0b07e24c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=duxbAj+hc40N8uxKjPFhSyIoBQ39h+Sf1+d2POCNhjLUCmhLiP0GJ6bm895RhlO8nIcUXZp+AnbTVdNJTG6Yt1AHQDmgnIjHQQmy4CnV1aE="
+2025-08-22T20:40:34 player: played "http://m701.music.126.net/20250822210508/aad5a5fc15ff075f9d8e61c3cfe151cd/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=l6aq8h2S1zxBBsdkg5yz2E33nopYN+//DFNbG8HJjCcVYxtrkunzc341C4kQBdD7euxPH/+Clqk6bCz/ck76e0HvAcpXDruY5frT7Nc+19A="
+2025-08-22T20:42:11 player: played "http://m701.music.126.net/20250822210534/f566adf3e4680315318d5a4e0aa6c2fc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59899251823/add5/54af/d34a/03d7cc300f9ceed55a4954b33e8928c9.mp3?vuutv=OmXvaLJUNdLSjltB+1jU7LYAaa0eed/rqTSq2VSWHiBoRNNlihPqMwIO0y3Zn8GOOUBjo+wzpqppSyMaIWTGiRP0GVQP8h45Sd5hjkTicP4="
+2025-08-23T17:17:17 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-08-23T17:17:17 exception: Failed to decode "http://m801.music.126.net/20250822210711/51b48d69c2c1e458f2ce6219c8bc7f9c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096426316/b03a/b21b/c8e4/f70ef37483b26affaded2065180e9e91.mp3?vuutv=ia5IIZVOJdX0tgIpuhDzp9Iifs7phRcf6PI5eChRzEdfafIJK1BsGi4qmxQWecSETMJuqTy9QYXhcabEBDaVAWd4fZJraRQLvMrkuixSxZY="; got HTTP status 403
+2025-08-23T17:17:17 config: option "device" on line 17 was not recognized
+2025-08-23T17:17:17 player: played "http://m801.music.126.net/20250822210711/51b48d69c2c1e458f2ce6219c8bc7f9c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096426316/b03a/b21b/c8e4/f70ef37483b26affaded2065180e9e91.mp3?vuutv=ia5IIZVOJdX0tgIpuhDzp9Iifs7phRcf6PI5eChRzEdfafIJK1BsGi4qmxQWecSETMJuqTy9QYXhcabEBDaVAWd4fZJraRQLvMrkuixSxZY="
+2025-08-23T17:17:55 player: played "http://m801.music.126.net/20250823174251/ca391f89fd87baed524cbe5121a22c4e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59899251823/add5/54af/d34a/03d7cc300f9ceed55a4954b33e8928c9.mp3?vuutv=LelH9kmq2zbJRhdq5xE/QqZyJqOvSNQYNPjR0YVAzdaSosCxc28dbeBkRW4GaSeEwfWLI9AakgD4x2/kZe4tmyzp4E7EAbVRL6+XqOTVySg="
+2025-08-23T17:56:26 player: played "http://m801.music.126.net/20250823174255/93834161af6b36ee3ad1bdaad9d485eb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=enImAch7xLU5sGNxa17NIhZ3VkXKaRDa8LcEyUkYUusIk/5FYc10fjW8mrn0KTtDz56RG7mYa4DMJ/Kh6N/1vnJpmauk5k5xfL8SuN9qI3A="
+2025-08-23T17:56:27 player: played "http://m701.music.126.net/20250823182126/e425137517e31bd16c04ab8aa8beb24f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60984973642/c60f/3b18/36aa/245cf0c302b9c1286a7a006ef91fb913.mp3?vuutv=nLqr7VptlLZH+Lg+WsklcAZkgVUksN0EX0eNMlusey0a313apCXCNboLgw1cj4X+G4uHwN4vTthDRT//OCrZ5ySD+iqLjjQfvLBGhlWRGOI="
+2025-08-23T17:59:13 player: played "http://m701.music.126.net/20250823182127/d7722b80203c47634ceb5a9539604abd/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59899251823/add5/54af/d34a/03d7cc300f9ceed55a4954b33e8928c9.mp3?vuutv=12Lv+aa3r3Y9qBOAOoc+wDeU7hU4F4wyWgha8vj9nLevY+ikxJAvQ0Nih32c3J0r+vMRACZLUQI81lxxWQE81J+QTN1jKe6LqYkmRcJ8brg="
+2025-09-05T16:53:38 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-09-05T16:53:38 config: option "device" on line 17 was not recognized
+2025-09-05T16:53:38 player: played "http://m701.music.126.net/20250823182413/ddc928354a9ca6ce9cba4dfc1c36ee8f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=4KocRchf45qrAQlXaJLcanpJyJHX4AQ8kqiBjCJaJG4wYqocNGAIRr2L9T+1B8C1MJ1QUp7cp6MmWTOhEGEwYIACAzKo89WkXpmzuPcaEAU="
+2025-09-05T16:56:20 player: played "http://m701.music.126.net/20250905171844/371fab5408e2aa09a0c0288c9d424779/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59899251823/add5/54af/d34a/03d7cc300f9ceed55a4954b33e8928c9.mp3?vuutv=LrW+VZjYT1YpUMNk7CelffjF2/YqN3lq9ShSS8CNZEWv2IDgHkFtIdOO7EA/L6G8s2f+t4LLnHIDc/LpC8F8MMf72JfcONfhDwZuonAiKSw="
+2025-09-05T16:56:25 player: played "http://m701.music.126.net/20250905172120/790d8ab6123d67dcd439d61f2473e46c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=67wLAMEpzAlkHGehwOaPclm+T5ZaPw3+WdlF9m4xt5bkjb6mOLthaqESpZwZRVJ6bRZqj4JEJXyNeuJK5Yzr07wqXmLK6uT5/3FnuiDOZq4="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T16:56:25 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T16:56:29 player: played "http://lx.sycdn.kuwo.cn/ec39bc56dd349cff04f7936b48f45564/68baa5b9/resource/n2/73/84/3759149332.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T16:56:29 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T16:56:31 player: played "http://lx.sycdn.kuwo.cn/487bc0247a895df9cea87dde37036a6a/68baa5bd/resource/n2/73/84/3759149332.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T16:56:31 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T16:56:43 player: played "http://lx.sycdn.kuwo.cn/c679fe41621945b89b5ebbddf282d2d4/68baa5bf/resource/n2/73/84/3759149332.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T16:56:44 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T16:56:46 player: played "http://lx.sycdn.kuwo.cn/c679fe41621945b89b5ebbddf282d2d4/68baa5bf/resource/n2/73/84/3759149332.mp3?bitrate"
+2025-09-05T16:56:49 player: played "http://m701.music.126.net/20250905172146/686e770c4cc32d7abcab9f91cf9ac08b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/55948443839/268f/d94a/dd71/d432d49e6c7e1757c5911c886082d719.mp3?vuutv=9zGFsau2J6QXF6ihoDLvVktJsZbTJCfnUv1DdleoKPCZy2HjkHMGgXzfUHUvakuQTjXYrk/pWnO+UgyC4hlTlKx4+ghsYyRR1qgIL48/djU="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T16:56:49 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T16:56:52 player: played "http://ri.sycdn.kuwo.cn/59c4d2a6f5330a2067dd5d3b3a2fb923/68baa5d1/resource/n1/34/9/2706090023.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T16:56:52 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T16:56:55 player: played "http://lx.sycdn.kuwo.cn/2b20d7e2800e21372c6313b069b5e94d/68baa5d4/resource/n2/73/84/3759149332.mp3?bitrate"
+2025-09-05T17:05:06 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-09-05T17:05:06 config: option "device" on line 17 was not recognized
+2025-09-05T17:05:13 player: played "http://m701.music.126.net/20250905173012/c55318eb85711eca3e6cf44945033aed/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59899251823/add5/54af/d34a/03d7cc300f9ceed55a4954b33e8928c9.mp3?vuutv=vVxAMlfVJJaLGxZLtLhOXTdsPPP6vkxto2jhh1iDUxFS0EIVBK4FkWJYL+O5fRCTnldTSZ3vXLG0UGSXzW2hEbGvqest9OhfahgCZqE44OE="
+2025-09-05T17:05:15 player: played "http://m801.music.126.net/20250905173013/8a581c89c43347da04b46043f6384f53/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=KwPS52BXFISDiVNGuNjMWyLSWBLRQjsU/FjFs6rWYTse9+4wvp9bz2YsJPxrJb68O+olMuVoZInKyTVJ1inHBiCUYhuvU1/dyzmrmBPgMlk="
+2025-09-05T17:05:17 player: played "http://m701.music.126.net/20250905173015/cc280d7ae5f2e349e206f148c2e7a67c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60384165261/ef9e/d9e5/bfcc/26f0cd7b47ff017476c057447892ee2e.mp3?vuutv=euzRPYm9eUcvskCrazhKtr+XXG2Cc+7+v1e8YA+gzdGAy17UHUplSSbwIhI6jdUprqG8TVUZUUkJFGbjNPpSM5ckIzAJlHhiRa8gVTPCovI="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T17:05:17 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T17:05:29 player: played "http://lx.sycdn.kuwo.cn/6621299e15e840758bcd5ce39e1877c4/68baa7cd/resource/n2/73/84/3759149332.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T17:05:29 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T17:05:41 player: played "http://lx.sycdn.kuwo.cn/6621299e15e840758bcd5ce39e1877c4/68baa7cd/resource/n2/73/84/3759149332.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T17:05:41 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T17:05:53 player: played "http://lx.sycdn.kuwo.cn/6621299e15e840758bcd5ce39e1877c4/68baa7cd/resource/n2/73/84/3759149332.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T17:05:53 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T17:06:05 player: played "http://lx.sycdn.kuwo.cn/6621299e15e840758bcd5ce39e1877c4/68baa7cd/resource/n2/73/84/3759149332.mp3?bitrate"
+2025-09-05T17:06:12 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-09-05T17:06:12 config: option "device" on line 17 was not recognized
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T17:06:25 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T17:06:37 player: played "http://lx.sycdn.kuwo.cn/8b230a8987e7ca7ace4b1e67d27d6167/68baa80b/resource/n2/73/84/3759149332.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T17:06:38 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T17:06:50 player: played "http://lx.sycdn.kuwo.cn/8b230a8987e7ca7ace4b1e67d27d6167/68baa80b/resource/n2/73/84/3759149332.mp3?bitrate"
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T17:06:51 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T17:07:00 player: played "http://lx.sycdn.kuwo.cn/8b230a8987e7ca7ace4b1e67d27d6167/68baa80b/resource/n2/73/84/3759149332.mp3?bitrate"
+2025-09-05T17:10:38 player: played "http://m8.music.126.net/20250905173200/0e8e241d1a689dab22365d53f89860fa/ymusic/bd5e/6c74/5f3b/c7ff5ec94feb1ff5259c1d896f941d8e.mp3?vuutv=WkzPiY5ua9Im2LouIJzH0d0VctpL7zcIxM0m2Ft9mSsG+JY33+0NOKgZxnkYCBy0LUBQ0bitQT84xrN0OYwE2ZR2CGYuKe7BNZ6x2ALiWHE="
+2025-09-05T17:10:43 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-09-05T17:10:43 config: option "device" on line 17 was not recognized
+2025-09-05T19:03:10 player: played "http://m8.music.126.net/20250905173616/0deabae9e8eeb91c5fa03a9fc9cb4bfe/ymusic/bd5e/6c74/5f3b/c7ff5ec94feb1ff5259c1d896f941d8e.mp3?vuutv=pW7wkgPUl8OVKUlrOJb9ohC6F0vNEtNLedX1+5KyQ0tTxLnABOoBE2E9TPLVJmk7o970EH2Jb7OEt2NNX3SISJFX23L6wtdNW0o4g9jYc8U="
+2025-09-05T19:03:12 player: played "http://m801.music.126.net/20250905192810/bf2ae1c45c4027b53bac20485d2c029b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/21525407622/e2f3/e16f/120a/b8636a445852828cc43a1894b0ca6a06.mp3?vuutv=M5apOYFE3E0xZ+pphLO2pZa2ZU9Iyx4joe32TOawP+IQuI1E+JuLVoeLx4nje6+UWGLzHh4pBIRQZcjlJMUG12fchrCQQm6Wwzu/OMt69gI="
+2025-09-05T19:03:15 player: played "http://m801.music.126.net/20250905192812/78d751ff006c9ca3b5e7f25fa9b2a40d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59439726036/fbca/697e/5460/5ea85d304d97345fcf7809e14d34a877.mp3?vuutv=VVHnctGMv7aR6G+FAxGubW1gAgWp5ZRwteXMUxLarLasIoyFAqIJ//EqIQ5/85/+sCR3QFZB+1EW+D3j/lGtmxfu4DFuSRDWAnx+cWaFMyo="
+2025-09-05T19:03:17 player: played "http://m701.music.126.net/20250905192815/7cabfe9268309d6c90832c730dae1ded/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30963082785/224f/8da3/7c68/e4f44475b70c40a358ca306093d82e1d.mp3?vuutv=PeJfWGW6G7dP8NWFmYmaX1ZIeGmWBVSGy8qcWRsQXRYTcIh3GyJU3/ObhXXuskWDrIgOSejHvpPFI73jxttxDLzEzwbF+caAXDdHb4MgCcs="
+2025-09-05T19:03:39 player: played "http://m701.music.126.net/20250905192817/aca03fc8e1172e9134e7cf3dd51b5de1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/30288113153/43a2/6620/7bd7/06add21a6c6300a94a212cfe3f41de7b.mp3?vuutv=EHeztSnL4Np2lnsmp+odFS+X8FntKrITLZB89Dt3Y5DRtFJbKpXQQLEb3OOmwEsy5DwkUYOAkby1lmmVL3wvAVcVvP63W41vUpMaPgUdooM="
+[src/libmpg123/parse.c:do_readahead():1105] error: cannot seek!
+2025-09-05T19:03:39 mpg123: mpg123_getformat() failed: A generic mpg123 error.
+2025-09-05T19:06:18 player: played "http://fsandroid.tx.kugou.com/202509051903/7f8eb3b03845366ba07f8a7698d215a0/v3/3b6f7db78d16749aafd11933b088aa0d/yp/full/ap1005_pi2_ct330400_s506204645.mp3"
+2025-09-05T19:06:33 player: played "http://m701.music.126.net/20250905193118/815236e7a8c425edc76a1728d16b0651/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35171581514/7974/a23c/b984/3a3df02eb8c0392bd2c22b4131533e03.mp3?vuutv=5GE0zjCsSe7KuHll+MhNI/V4OGFWvlUt6JbMW4b8zgZLT2C9q/cH5UfE9ncpMnFB1Si31pBgZemjHAKrhq3PnpRvKdzDIdKFvHzj3pViYCY="
+2025-09-05T19:06:55 player: played "http://m801.music.126.net/20250905193133/536edb099d0c4b070a9a2836784e02e0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35964802915/d32d/92aa/c73e/38bafbb171742f70716cabcff937a680.mp3?vuutv=cM78Fh2IDppSMG4qLHqPdVL3IvIzNM0JlFHBZe4uGREXlqPsr4sOJ0pKo3mHvum59h+lxHtDmVLq8Canga7FCRBMR1NQGouHyY1pHTPiap4="
+2025-09-05T19:07:24 player: played "http://m801.music.126.net/20250905193155/1d4f176b7f11d2bbdc01ac6336efc4a8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/19819097899/6889/ad10/e58d/d3e8f701d00856f4cd77a63a76139472.mp3?vuutv=7qArqeYS5aEQTOm+L69TR3YX7Gg0T5AgsTzBnaiSIAmzeydoKyz1jeXbbLS17IW6y550cChNQ7uGkRYMECthmk6Ua6r5/fNe+PGCIuZSRZg="
+2025-09-05T19:07:28 player: played "http://m701.music.126.net/20250905193224/6a19d8ea1870ac274387d4216f9bdd5f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/61981085976/4bf3/1e1a/f9a5/1f56472543945cb7fc69db414b9a4821.mp3?vuutv=qvNHkxrjyF3VbeXegOJH1N/KXhv+iheoztvQye+Ef8WpN912Np58HUHkcD88eOJDbbbErMtzyT3Q2P8ooRwEWuSq4NhHdteZHUnFMoKlqu0="
+2025-09-05T19:10:56 player: played "http://m801.music.126.net/20250905193227/ae6c2d59f00348b6573e0aea5a144ea2/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/62159767631/3c15/0025/d618/b588151bdf0372d5091dcaaebb410c9b.mp3?vuutv=AhUab/viLyU0wXxZOwf6aJNyBH0h3XtTLxcFa/o5dMdJPkRVA5cwU+M+r4QyNLBQLPr3zN+8krImontlsXXwfsL6XIO+Un4VwhudK8hsYPE="
+2025-09-05T19:14:34 player: played "http://m701.music.126.net/20250905193557/e97c21e8a50db42b81b9e13fb6b8f748/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/62159767631/3c15/0025/d618/b588151bdf0372d5091dcaaebb410c9b.mp3?vuutv=KXoja2lG65mKuo2pVDobSYCftFhnq175wHcAy1dpQ/acrcjS7YRG7l0m4mBgQ0ezj2TzRzaahzyPrHPlRKlcVqWOoUqJFtg/6tHhwCipq+k="
+2025-09-05T19:21:08 exception: Recv failure: Connection reset by peer: Failure when receiving data from the peer
+2025-09-05T19:21:46 player: played "http://m701.music.126.net/20250905193934/dee3a286da25f5db0e026e5f6687e8f8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/62159767631/3c15/0025/d618/b588151bdf0372d5091dcaaebb410c9b.mp3?vuutv=Zrr0CDnBbewMJQesvQZY4wDXBSJJMvFHVX9HTY1D1rE0kAiVppr6l3yJ+O1pVHz6eusMrU8odptB7BVNZcGjWn80iAIcI6K3KHtVD6RmdYQ="
+2025-09-05T19:24:03 player: played "http://m801.music.126.net/20250905194646/905be77796d39ed737e4cbd73136fec5/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/62159767631/3c15/0025/d618/b588151bdf0372d5091dcaaebb410c9b.mp3?vuutv=7lVevQ/Am5I7lrJsnPwf7NOa1RCDkXXvfdSbgYx3jcWmwqq9HV9s56ds6Uh65wwJGInqSmykf+0YegRngOgtau6MpsOuG2wvDyriVBHSYYM="
+2025-09-05T19:27:26 player: played "http://m801.music.126.net/20250905194903/17c9cc8d82a2e5027b67a738da58d5a6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=F1yujdvN/XdhqSKUDD46pIcBs9/MhuwsEr30+WBFDUSynSoj6Te4gfF6sn4XwGadb+We/zt9RoRfOJ7ESCbsz5KfUKDLg4dhl0zOcRlFgQM="
+2025-09-06T18:54:10 exception: inotify_add_watch("/home/li/Music") failed: No such file or directory
+2025-09-06T18:54:10 exception: Failed to decode "http://m701.music.126.net/20250905195226/e18b62d606625960ddf0d7665bdaaaec/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=1LQuuz2anI8+rHIXnPyxC7azQJ66cqmTNMjkT93jB06OzFNqftLPesdJazl5ZLFosKldJF/y8XI82oILxSTOBcpuIMQX5wQCxwH8kZTMgag="; got HTTP status 403
+2025-09-06T18:54:10 config: option "device" on line 17 was not recognized
+2025-09-06T18:54:10 player: played "http://m701.music.126.net/20250905195226/e18b62d606625960ddf0d7665bdaaaec/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59607330917/f1d8/fad4/5402/5242fcb28811db26f4e7669ce6fb362e.mp3?vuutv=1LQuuz2anI8+rHIXnPyxC7azQJ66cqmTNMjkT93jB06OzFNqftLPesdJazl5ZLFosKldJF/y8XI82oILxSTOBcpuIMQX5wQCxwH8kZTMgag="
+2025-09-06T19:45:25 player: played "http://m701.music.126.net/20250906201013/e1ffa92c93a141f519394b0965214366/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59899251823/add5/54af/d34a/03d7cc300f9ceed55a4954b33e8928c9.mp3?vuutv=WARF1YJbqEfqTuDgDVirnXv1QfezK+oEa1NgCJ8ezR4KFwoMq3n28MX9ulobwGJfoAI4/h6eJSX44lumhUDQ6mQdaZNvGD2fGnlcY4z/ohY="
+2025-09-06T19:47:32 player: played "http://m701.music.126.net/20250906201025/f11097e2b63b4816688ff0b6276b0da8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=aVAMMKb9r/scu8vq6h/FqqPP6bIb4wt8YLWbBtGYhKjS+gnBAZCa0VwifVBjw6dNX+m4k8r8GEHfCykBdrx3dy7x+ZPH9YEcpGe7pBxplwQ="
+2025-09-06T19:49:40 player: played "http://m801.music.126.net/20250906201232/2883cc02e9e0d94e8132b4d1bfa2dec8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=QkZ45ybcS7OcsGZtnV+HGHgu/z7EODHC1PChjk+k6okNJLHj4HnnJsZP4WzFkBHQGLT76E7E739Ay0xVHYnyvSMPb7A3YlZpeQNA5JZH7/E="
+2025-09-06T19:51:48 player: played "http://m801.music.126.net/20250906201440/7b0f863a26f4857e5d7aebd85a9fc1f9/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=vgIEze3LZNbeBfv4SI3eUBS7l6uaOGFR1SyOm8xoC213Cl+1o9ZyNiXS7ap0XfKUQeRbNSQgzJpPq/S6rBVz4TS5VXWnBV/60Nx4hC7Y1GA="
+2025-09-06T19:53:56 player: played "http://m801.music.126.net/20250906201649/e38455eab746310f7b7e748eacb9226e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=CIemUg03oFjhTLsxCpvorq4FBI90QxHZVOwN5OXIF21hn5FFHg7CMjgOyVgRv79TqraTMhlFi+E3oYnXnL6wqHoI2nTho72H8GdId/rhmMs="
+2025-09-06T19:56:03 player: played "http://m701.music.126.net/20250906201856/786d7fd3069bd49e0ee96565b4f2d325/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=Pfog1FgYu9EVJYfMaPXCVyTw6HwvAd4FUqbla6nwGKK4Qz4Dtm4UHzoBXGFsy6mOJhoeGC+MUpq+tsgmLT0UM0Mkoqsby1capCAmLIPdd4s="
+2025-09-06T19:58:11 player: played "http://m801.music.126.net/20250906202104/7ea779e4a0d45f21970af058a7e594e4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=x5clUMptnhmdxUDXUASaT8rgwrp0YTB8kgcoqmDuKN4Kl0RVrRMw3pO1DWnwEkMK9pV3TiuFmRMWTzdvUGukVZix26ksz5UxDIyD8dWkE6s="
+2025-09-06T20:00:19 player: played "http://m701.music.126.net/20250906202311/5c690c4305ba5af6f6bac45ffc317033/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=nNUaYPFw9p9AB6+uq9qj0mCj87m3K5FIJVFVhgGbrAN7majvhwxcIy3DPk87P5Z6+qcAjZ9suOjhL3VdHPZBjo+L89lYXIQ3qQhqbr0JAXk="
+2025-09-06T20:02:26 player: played "http://m701.music.126.net/20250906202519/78b66e4c74427878772f39027eec3c00/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=ug1bc/Y8FhXERLXrOeNmhaDO5VC1Uxi56QPckzegyPzb9VdvRankVZRARG1X7h0DucsVl7Rz2GF4RY7GdPOALhiyIGC3MDMq7wkZR0G8VGs="

@@ -1,0 +1,20 @@
+export GTK_IM_MODULE=wayland
+export QT_IM_MODULE=fcitx
+export QT_QPA_PLATFORM=wayland
+#fzf zsh config
+export FZF_CTRL_T_OPTS=" --preview 'bat -n --color=always --line-range :500 {}'"
+export FZF_ALT_C_OPTS=" --preview 'lsd -ail --color=always'"
+export FZF_DEFAULT_OPTS=" \
+--color=spinner:#f4dbd6,hl:#ed8796 \
+--color=bg+:#363a4f,fg:#cad3f5,header:#ed8796,info:#c6a0f6,pointer:#f4dbd6 \
+--color=marker:#b7bdf8,fg+:#cad3f5,prompt:#c6a0f6,hl+:#ed8796 \
+--color=selected-bg:#494d64 \
+--multi"
+export EDIT=nvim
+export ZSH_AUTOSUGGEST_STRATEGY=(match_prev_cmd completion)
+export PATH=$PATH:$HOME/.cargo/bin
+export PATH=$PATH:$HOME/.local/bin/
+#AUTO_NOTIFY config
+export AUTO_NOTIFY_THRESHOLD=10
+export AUTO_NOTIFY_TITLE="Hey! %command has just finished"
+export AUTO_NOTIFY_BODY="It completed in %elapsed seconds with exit code %exit_code"

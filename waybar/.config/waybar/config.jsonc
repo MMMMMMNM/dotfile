@@ -1,0 +1,235 @@
+{
+  "layer": "bottom",
+  "position": "top",
+  "height": 0,
+  "spacing": 5,
+  //"margin-bottom": -11,
+  "modules-left": [
+	"custom/cava_mviz",
+	"custom/waylrc"
+  ],
+  "modules-center": [ 
+    "hyprland/workspaces"
+  ],
+  "modules-right": [
+	"mpd",
+    "custom/tools",
+    "cpu",
+    "pulseaudio",
+    "group/tools"
+  ],
+  "cpu": {
+    "interval": 1,
+    "format": "{icon0} {icon1} {icon2} {icon3}",
+    "format-icons": [
+      "▁",
+      "▂",
+      "▃",
+      "▄",
+      "▅",
+      "▆",
+      "▇",
+      "█"
+    ],
+	 "on-click": "~/dotfile/bash_sh/btop.sh"
+  },
+  /* "keyboard-state": {
+     "numlock": true,
+     "capslock": true,
+     "format": "{name} {icon}",
+     "format-icons": {
+       "locked": "",
+       "unlocked": ""
+    }
+   },*/
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "format-active": " {icon} ",
+    "on-click": "activate"
+  },
+  "mpd": {
+    // "format": "{stateIcon} {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}{artist} - {album} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S})  ",
+    "format": "{stateIcon} {title} [{elapsedTime:%M:%S}/{totalTime:%M:%S}]  ",
+    "format-disconnected": "Disconnected",
+    "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped",
+    "unknown-tag": "N/A",
+    "interval": 2,
+    "consume-icons": {
+      "on": " "
+    },
+    "random-icons": {
+      "off": "<span color=\"#f53c3c\"></span> ",
+      "on": " "
+    },
+    "repeat-icons": {
+      "on": " "
+    },
+    "single-icons": {
+      "on": "1 "
+    },
+    "state-icons": {
+      "paused": "",
+      "playing": ""
+    },
+    "tooltip-format": "{stateIcon} {title} ",
+    "tooltip-format-disconnected": "{stateIcon} {title} ",
+    "on-click-right": "playerctl play-pause",
+	"on-click": "playerctl next"
+  },
+  /*"idle_inhibitor": {
+    "format": "{icon}",
+    "format-icons": {
+      "activated": "",
+      "deactivated": ""
+    }
+  },
+  */
+  "clock": {
+    // "timezone": "America/New_York",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+    "interval": 60,
+    "format": "{:%I:%M}",
+    "max-length": 25,
+    "on-click": "~/dotfile/bash_sh/tuime.sh"
+  },
+  // "battery": {
+  //   "states": {
+  //     "warning": 50,
+  //     "critical": 20
+  //   },
+  //   "format": "{icon}",
+  //   "format-charging": "",
+  //   "format-plugged": "",
+  //   // "format-good": "", // An empty format will hide the module
+  //   // "format-full": "",
+  //   "format-icons": [
+  //     "",
+  //     "",
+  //     "",
+  //     "",
+  //     ""
+  //   ]
+  // },
+
+"network": {
+	"format": "{ifname}",
+	"format-wifi": "{icon}",
+	"format-ethernet": "󰌘",
+	"format-disconnected": "󰌙",
+	"tooltip-format": "{ipaddr}  {bandwidthUpBits}  {bandwidthDownBits}",
+	"format-linked": "󰈁 {ifname} (No IP)",
+	"tooltip-format-wifi": "{essid} {icon} {signalStrength}%",
+	"tooltip-format-ethernet": "{ifname} 󰌘",
+	"tooltip-format-disconnected": "󰌙 Disconnected",
+	"max-length": 30,
+	"format-icons": [
+		"󰤯", "󰤟", "󰤢", "󰤥", "󰤨"
+	],
+   "on-click": "~/dotfile/bash_sh/wifi.sh"
+  },
+  "pulseaudio": {
+    "scroll-step": 1, // %, can be a float
+    "format": "{volume}%{icon}",
+    "format-icons": {
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    //"on-click": "pavucontrol"
+	//"on-click": "easyeffects"
+	"on-click":"kitty pulsemixer"
+  },
+  "custom/recording": {
+    "exec": "~/dotfile/bash_sh/wf-recorder.sh",
+    "return-type": "json",
+    "interval": 1,
+    "format": "{}",
+    "tooltip": true
+  },
+  "group/tools": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 300,
+      "children-class": "not-memory",
+      "transition-left-to-right": false
+    },
+    "modules": [
+	  "clock",
+      "bluetooth",
+      "network",
+      "custom/recording",
+      "custom/wallpaper",
+	  "custom/weather",
+	  "custom/swaync"
+    ]
+  },
+  "bluetooth": {
+	"format": " ",
+	"format-disabled": "󰂳",
+	"format-connected": "󰂱 {num_connections}",
+	"tooltip-format": " {device_alias}",
+	"tooltip-format-connected": "{device_enumerate}",
+	"tooltip-format-enumerate-connected": " {device_alias} 󰂄{device_battery_percentage}%",
+	"tooltip": true,
+	"on-click": "kitty bluetui"
+ },
+ "custom/cava_mviz": {
+	//    "exec": "~/.local/bin/caway -f 240 -b 10",
+	// "return-type":"json",
+	"exec": "~/.config/hypr/script/Cava.sh",
+	"format": "{}",
+	"on-click": "~/dotfile/bash_sh/cava.sh"
+ } ,
+  "custom/waylrc": {
+        "exec": "~/dotfile/bash_sh/waylrc.sh",
+        "return-type": "json",
+        "escape": true,
+		"interval": 0,
+        "format": "{}",
+        "tooltip": true
+ },
+ "custom/wallpaper": {
+    "format": "",
+    "on-click": "waypaper"
+ },
+ "custom/weather": {
+    "format": "{}°",
+    "tooltip": true,
+    "interval": 3600,
+    "exec": "~/dotfile/bash_sh/wttr.sh",
+    "return-type": "json"
+ },
+ "hyprland/submap": {
+	"format": "<span style=\"italic\">  {}</span>", // Icon: expand-arrows-alt
+	"tooltip": false
+},
+"custom/settings": {
+	"format": " ",
+	"on-click": "isd",
+	"tooltip": true,
+	"tooltip-format": "Systemd Settings Menu"
+},
+"custom/swaync": {
+	"tooltip": true,
+	"tooltip-format": "Left Click: Launch Notification Center\nRight Click: Do not Disturb",
+	"format": "{} {icon} ",
+	"format-icons": {
+		"notification": "<span foreground='red'><sup></sup></span>",
+		"none": "",
+		"dnd-notification": "<span foreground='red'><sup></sup></span>",
+		"dnd-none": "",
+		"inhibited-notification": "<span foreground='red'><sup></sup></span>",
+		"inhibited-none": "",
+		"dnd-inhibited-notification": "<span foreground='red'><sup></sup></span>",
+		"dnd-inhibited-none": ""
+	},
+	"return-type": "json",
+	"exec-if": "which swaync-client",
+	"exec": "swaync-client -swb",
+	"on-click": "sleep 0.1 && swaync-client -t -sw",
+	"on-click-right": "swaync-client -d -sw",
+	"escape": true,
+}
+}

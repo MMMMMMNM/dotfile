@@ -1,0 +1,21 @@
+### alias ###
+alias lg="lazygit"
+alias icat="kitty +kitten icat"
+alias top="btop"
+alias du="dust"
+alias fzf="fzf --preview 'bat -n --color=always --line-range :500 {}' --bind=ctrl-j:preview-down,ctrl-k:preview-up --layout=reverse"
+alias fzfqi="paru -Qtq | fzf --preview 'paru -Qi {}'"
+#alias ssh='kitty +kitten ssh'
+alias rm='rm -I'
+#alias ping='gping'
+alias np='ncmpcpp'
+alias ps='procs'
+alias cat='bat'
+alias vi='nvim'
+alias vis='nvim $(fzf)'
+alias ls='lsd -al'
+alias grep='grep --color=auto'
+alias diff='delta'
+alias df='duf'
+alias brolot='broot -h'
+alias nvide="neovide"

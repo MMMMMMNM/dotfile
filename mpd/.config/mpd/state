@@ -1,0 +1,21 @@
+sw_volume: 100
+audio_device_state:1:pipewire-pulse
+audio_device_state:1:Visualizer feed
+state: play
+current: 0
+time: 119.504
+random: 0
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+song_begin: http://m701.music.126.net/20250906202519/78b66e4c74427878772f39027eec3c00/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/58735096829/da99/68af/74b4/b75733c827ac86f03c2e4eebd8db0a9c.mp3?vuutv=ug1bc/Y8FhXERLXrOeNmhaDO5VC1Uxi56QPckzegyPzb9VdvRankVZRARG1X7h0DucsVl7Rz2GF4RY7GdPOALhiyIGC3MDMq7wkZR0G8VGs=
+Artist: 在虚无中永存
+Album: 英雄主义
+Title: 英雄主义
+song_end
+playlist_end
